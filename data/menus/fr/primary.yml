@@ -19,15 +19,15 @@ items:
   descendants_targets: []
   path: "/pages/nos-metiers"
   file: content/fr/pages/nos-metiers/_index.html
-- title: Nos expértises
+- title: Nos expertises
   slug: nos-expertises
-  target: "/expertises-1/"
+  target: "/expertises/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/expertises-1"
-  file: content/fr/pages/expertises-1/_index.html
+  path: "/pages/expertises"
+  file: content/fr/pages/expertises/_index.html
 - title: Vos besoins, nos solutions
   slug: vos-besoins-nos-solutions
   target: "/vos-besoins-nos-solutions/"

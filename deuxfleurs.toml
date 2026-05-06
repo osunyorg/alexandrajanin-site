@@ -23,10 +23,6 @@ from = "/personnes/equipe-editoriale/index.html"
 to = "/qui-sommes-nous-1/equipe-editoriale/"
 
 [[redirects]]
-from = "/expertises/index.html"
-to = "/organisations/"
-
-[[redirects]]
 from = "/expositions/archives-expositions/index.html"
 to = "/inspirations/archives-expositions/"
 
@@ -37,4 +33,8 @@ to = "/actualites/"
 [[redirects]]
 from = "/personnes/index.html"
 to = "/qui-sommes-nous-1/"
+
+[[redirects]]
+from = "/expertises-1/index.html"
+to = "/expertises/"
 
