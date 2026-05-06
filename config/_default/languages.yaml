@@ -2,13 +2,19 @@
 
 fr:
   title: >-
-    Site
+    Metamorphoz
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            pyl@metamorfoz.fr
+          value: >-
+            mailto:pyl@metamorfoz.fr
 
   taxonomies:
     administrator: administrators

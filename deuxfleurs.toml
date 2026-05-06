@@ -19,6 +19,10 @@ from = "/expositions/index.html"
 to = "/inspirations/"
 
 [[redirects]]
+from = "/personnes/equipe-editoriale/index.html"
+to = "/qui-sommes-nous-1/equipe-editoriale/"
+
+[[redirects]]
 from = "/expertises/index.html"
 to = "/organisations/"
 
