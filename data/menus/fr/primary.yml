@@ -28,6 +28,24 @@ items:
   descendants_targets: []
   path: "/pages/expertises-1"
   file: content/fr/pages/expertises-1/_index.html
+- title: Vos besoins, nos solutions
+  slug: vos-besoins-nos-solutions
+  target: "/vos-besoins-nos-solutions/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/vos-besoins-nos-solutions"
+  file: content/fr/pages/vos-besoins-nos-solutions/_index.html
+- title: Nos secteurs et fillières d'intervention
+  slug: nos-secteurs-et-fillieres-d-intervention
+  target: "/secteurs/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/secteurs"
+  file: content/fr/pages/secteurs/_index.html
 - title: Nos références
   slug: nos-references
   target: "/projets/"
