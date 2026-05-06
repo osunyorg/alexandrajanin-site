@@ -81,6 +81,15 @@ items:
     descendants_targets: []
     path: "/pages/secteurs/amenagement"
     file: content/fr/pages/secteurs/amenagement/_index.html
+  - title: Collectivités
+    slug: collectivites
+    target: "/secteurs/collectivites/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/collectivites"
+    file: content/fr/pages/secteurs/collectivites/_index.html
   - title: Énergie
     slug: energie
     target: "/secteurs/energie/"
@@ -110,6 +119,7 @@ items:
     file: content/fr/pages/secteurs/organisations-professionnelles/_index.html
   descendants_targets:
   - "/secteurs/amenagement/"
+  - "/secteurs/collectivites/"
   - "/secteurs/construction/"
   - "/secteurs/energie/"
   - "/secteurs/organisations-professionnelles/"
