@@ -24,8 +24,28 @@ items:
   target: "/expertises/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Bien-être personnel
+    slug: bien-etre-personnel
+    target: "/expertises/bien-etre-personnel/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/expertises/bien-etre-personnel"
+    file: content/fr/pages/expertises/bien-etre-personnel/_index.html
+  - title: Dynamiques collectives
+    slug: dynamiques-collectives
+    target: "/expertises/dynamiques-collectives/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/expertises/dynamiques-collectives"
+    file: content/fr/pages/expertises/dynamiques-collectives/_index.html
+  descendants_targets:
+  - "/expertises/bien-etre-personnel/"
+  - "/expertises/dynamiques-collectives/"
   path: "/pages/expertises"
   file: content/fr/pages/expertises/_index.html
 - title: Vos besoins, nos solutions
@@ -42,8 +62,58 @@ items:
   target: "/secteurs/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Construction
+    slug: construction
+    target: "/secteurs/construction/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/construction"
+    file: content/fr/pages/secteurs/construction/_index.html
+  - title: Aménagement
+    slug: amenagement
+    target: "/secteurs/amenagement/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/amenagement"
+    file: content/fr/pages/secteurs/amenagement/_index.html
+  - title: Énergie
+    slug: energie
+    target: "/secteurs/energie/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/energie"
+    file: content/fr/pages/secteurs/energie/_index.html
+  - title: RSE toutes entreprises
+    slug: rse-toutes-entreprises
+    target: "/secteurs/rse-toutes-entreprises/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/rse-toutes-entreprises"
+    file: content/fr/pages/secteurs/rse-toutes-entreprises/_index.html
+  - title: Organisations professionnelles
+    slug: organisations-professionnelles
+    target: "/secteurs/organisations-professionnelles/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/organisations-professionnelles"
+    file: content/fr/pages/secteurs/organisations-professionnelles/_index.html
+  descendants_targets:
+  - "/secteurs/amenagement/"
+  - "/secteurs/construction/"
+  - "/secteurs/energie/"
+  - "/secteurs/organisations-professionnelles/"
+  - "/secteurs/rse-toutes-entreprises/"
   path: "/pages/secteurs"
   file: content/fr/pages/secteurs/_index.html
 - title: Nos références
