@@ -1,17 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  slug: actualites
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
-- title: Personnes
-  slug: personnes
+- title: Qui sommes-nous ?
+  slug: qui-sommes-nous
   target: "/qui-sommes-nous-1/"
   kind: page
   new_tab: false
@@ -19,15 +10,6 @@ items:
   descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
-- title: Nos références
-  slug: nos-references
-  target: "/projets/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/projects"
-  file: content/fr/projects/_index.html
 - title: Nos métiers
   slug: nos-metiers
   target: "/nos-metiers/"
@@ -37,6 +19,24 @@ items:
   descendants_targets: []
   path: "/pages/nos-metiers"
   file: content/fr/pages/nos-metiers/_index.html
+- title: Nos expértises
+  slug: nos-expertises
+  target: "/expertises-1/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/expertises-1"
+  file: content/fr/pages/expertises-1/_index.html
+- title: Nos références
+  slug: nos-references
+  target: "/projets/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
 - title: Nos inspirations
   slug: nos-inspirations
   target: "/inspirations/"

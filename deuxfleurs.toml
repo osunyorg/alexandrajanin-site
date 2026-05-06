@@ -19,6 +19,10 @@ from = "/expositions/index.html"
 to = "/inspirations/"
 
 [[redirects]]
+from = "/expertises/index.html"
+to = "/organisations/"
+
+[[redirects]]
 from = "/expositions/archives-expositions/index.html"
 to = "/inspirations/archives-expositions/"
 
@@ -29,8 +33,4 @@ to = "/actualites/"
 [[redirects]]
 from = "/personnes/index.html"
 to = "/qui-sommes-nous-1/"
-
-[[redirects]]
-from = "/organisations/index.html"
-to = "/expertises/"
 
