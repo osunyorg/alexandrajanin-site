@@ -26,3 +26,11 @@ to = "/inspirations/archives-expositions/"
 from = "/references/index.html"
 to = "/actualites/"
 
+[[redirects]]
+from = "/personnes/index.html"
+to = "/qui-sommes-nous-1/"
+
+[[redirects]]
+from = "/organisations/index.html"
+to = "/expertises/"
+
