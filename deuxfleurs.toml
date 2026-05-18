@@ -23,12 +23,24 @@ from = "/personnes/equipe-editoriale/index.html"
 to = "/qui-sommes-nous-1/equipe-editoriale/"
 
 [[redirects]]
+from = "/expertises/pierre-yves-legrand/index.html"
+to = "/qui-sommes-nous-1/pierre-yves-legrand/"
+
+[[redirects]]
+from = "/pierre-yves-legrand/index.html"
+to = "/qui-sommes-nous-1/pierre-yves-legrand/"
+
+[[redirects]]
 from = "/expositions/archives-expositions/index.html"
 to = "/inspirations/archives-expositions/"
 
 [[redirects]]
 from = "/references/index.html"
 to = "/actualites/"
+
+[[redirects]]
+from = "/test/index.html"
+to = "/nos-metiers/test/"
 
 [[redirects]]
 from = "/personnes/index.html"
