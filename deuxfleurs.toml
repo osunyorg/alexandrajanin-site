@@ -55,6 +55,10 @@ from = "/personnes/index.html"
 to = "/qui-sommes-nous-1/"
 
 [[redirects]]
+from = "/mediation-de-connaissance/index.html"
+to = "/nos-metiers/transformation-des-organisations/mediation-de-connaissance/"
+
+[[redirects]]
 from = "/expertises-1/index.html"
 to = "/expertises/"
 
