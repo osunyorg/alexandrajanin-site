@@ -19,12 +19,20 @@ from = "/expositions/index.html"
 to = "/inspirations/"
 
 [[redirects]]
+from = "/nos-metiers/mentorat/index.html"
+to = "/nos-metiers/accompagnement-individuel-1/mentorat/"
+
+[[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
 to = "/qui-sommes-nous-1/equipe-editoriale/"
 
 [[redirects]]
 from = "/expertises/pierre-yves-legrand/index.html"
 to = "/qui-sommes-nous-1/pierre-yves-legrand/"
+
+[[redirects]]
+from = "/nos-metiers/accompagnement-individuel/index.html"
+to = "/nos-metiers/accompagnement-individuel-1/mentorat/"
 
 [[redirects]]
 from = "/pierre-yves-legrand/index.html"
