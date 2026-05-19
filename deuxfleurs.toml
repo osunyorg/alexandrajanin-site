@@ -47,10 +47,6 @@ from = "/references/index.html"
 to = "/actualites/"
 
 [[redirects]]
-from = "/test/index.html"
-to = "/nos-metiers/test/"
-
-[[redirects]]
 from = "/personnes/index.html"
 to = "/qui-sommes-nous-1/"
 
