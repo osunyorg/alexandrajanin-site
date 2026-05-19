@@ -50,3 +50,7 @@ to = "/qui-sommes-nous-1/"
 from = "/expertises-1/index.html"
 to = "/expertises/"
 
+[[redirects]]
+from = "/nos-missions/index.html"
+to = "/qui-sommes-nous-1/nos-missions/"
+
