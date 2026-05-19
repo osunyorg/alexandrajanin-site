@@ -31,6 +31,10 @@ from = "/expertises/pierre-yves-legrand/index.html"
 to = "/qui-sommes-nous-1/pierre-yves-legrand/"
 
 [[redirects]]
+from = "/accompagnement-a-la-structuration-de-filiere/index.html"
+to = "/nos-metiers/transformation-des-organisations/accompagnement-a-la-structuration-de-filiere/"
+
+[[redirects]]
 from = "/nos-metiers/accompagnement-individuel/index.html"
 to = "/nos-metiers/accompagnement-individuel-1/mentorat/"
 
