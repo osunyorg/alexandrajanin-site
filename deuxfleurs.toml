@@ -15,12 +15,16 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/nos-metiers/accompagnement-individuel-1/mentorat/index.html"
+to = "/nos-metiers/accompagnement-individuel-1/mentor/"
+
+[[redirects]]
 from = "/expositions/index.html"
 to = "/inspirations/"
 
 [[redirects]]
 from = "/nos-metiers/mentorat/index.html"
-to = "/nos-metiers/accompagnement-individuel-1/mentorat/"
+to = "/nos-metiers/accompagnement-individuel-1/mentor/"
 
 [[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
@@ -31,12 +35,16 @@ from = "/expertises/pierre-yves-legrand/index.html"
 to = "/qui-sommes-nous-1/pierre-yves-legrand/"
 
 [[redirects]]
+from = "/nos-metiers/transformation-des-organisations/animateur-dateliers-de-sensibilisation-a-larchitecture-et-a-lurbanisme-regeneratifs/index.html"
+to = "/nos-metiers/transformation-des-organisations/vulgarisateur/"
+
+[[redirects]]
 from = "/accompagnement-a-la-structuration-de-filiere/index.html"
 to = "/nos-metiers/transformation-des-organisations/accompagnement-a-la-structuration-de-filiere/"
 
 [[redirects]]
 from = "/nos-metiers/accompagnement-individuel/index.html"
-to = "/nos-metiers/accompagnement-individuel-1/mentorat/"
+to = "/nos-metiers/accompagnement-individuel-1/mentor/"
 
 [[redirects]]
 from = "/pierre-yves-legrand/index.html"
@@ -49,6 +57,14 @@ to = "/inspirations/archives-expositions/"
 [[redirects]]
 from = "/references/index.html"
 to = "/actualites/"
+
+[[redirects]]
+from = "/nos-metiers/transformation-des-organisations/consultant-en-prospective-et-strategie/index.html"
+to = "/nos-metiers/transformation-des-organisations/consultant-en-strategie-et-prospective/"
+
+[[redirects]]
+from = "/nos-metiers/transformation-des-organisations/conseil-en-prospective-et-strategie/index.html"
+to = "/nos-metiers/transformation-des-organisations/consultant-en-strategie-et-prospective/"
 
 [[redirects]]
 from = "/personnes/index.html"
