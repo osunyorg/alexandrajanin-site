@@ -23,6 +23,10 @@ from = "/expositions/index.html"
 to = "/inspirations/"
 
 [[redirects]]
+from = "/nos-metiers/transformation-des-organisations/facilitateur-devenements-professionnels/index.html"
+to = "/nos-metiers/transformation-des-organisations/animateur-de-rencontres-professionnelles/"
+
+[[redirects]]
 from = "/nos-metiers/mentorat/index.html"
 to = "/nos-metiers/accompagnement-individuel-1/mentor/"
 
@@ -33,6 +37,10 @@ to = "/qui-sommes-nous-1/equipe-editoriale/"
 [[redirects]]
 from = "/expertises/pierre-yves-legrand/index.html"
 to = "/qui-sommes-nous-1/pierre-yves-legrand/"
+
+[[redirects]]
+from = "/nos-metiers/transformation-des-organisations/podcast/index.html"
+to = "/nos-metiers/transformation-des-organisations/podcasteur/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/animateur-dateliers-de-sensibilisation-a-larchitecture-et-a-lurbanisme-regeneratifs/index.html"
@@ -51,6 +59,10 @@ from = "/pierre-yves-legrand/index.html"
 to = "/qui-sommes-nous-1/pierre-yves-legrand/"
 
 [[redirects]]
+from = "/nos-metiers/transformation-des-organisations/animer-des-dynamiques-collectives-de-communautes/index.html"
+to = "/nos-metiers/transformation-des-organisations/animateur-de-reseaux-et-de-communautes/"
+
+[[redirects]]
 from = "/expositions/archives-expositions/index.html"
 to = "/inspirations/archives-expositions/"
 
@@ -67,12 +79,24 @@ from = "/nos-metiers/transformation-des-organisations/conseil-en-prospective-et-
 to = "/nos-metiers/transformation-des-organisations/consultant-en-strategie-et-prospective/"
 
 [[redirects]]
+from = "/nos-metiers/transformation-des-organisations/conseil-editorial-1/index.html"
+to = "/nos-metiers/transformation-des-organisations/conseiller-editorial/"
+
+[[redirects]]
+from = "/nos-metiers/transformation-des-organisations/mediation-de-connaissance/index.html"
+to = "/nos-metiers/transformation-des-organisations/mediateur-de-connaissance/"
+
+[[redirects]]
 from = "/personnes/index.html"
 to = "/qui-sommes-nous-1/"
 
 [[redirects]]
+from = "/nos-metiers/transformation-des-organisations/relations-publiques/index.html"
+to = "/nos-metiers/transformation-des-organisations/charge-de-relations-publiques/"
+
+[[redirects]]
 from = "/mediation-de-connaissance/index.html"
-to = "/nos-metiers/transformation-des-organisations/mediation-de-connaissance/"
+to = "/nos-metiers/transformation-des-organisations/mediateur-de-connaissance/"
 
 [[redirects]]
 from = "/expertises-1/index.html"
@@ -81,4 +105,8 @@ to = "/expertises/"
 [[redirects]]
 from = "/nos-missions/index.html"
 to = "/qui-sommes-nous-1/nos-missions/"
+
+[[redirects]]
+from = "/nos-metiers/transformation-des-organisations/accompagner-lemergence-de-linnovation/index.html"
+to = "/nos-metiers/transformation-des-organisations/facilitateur-d-innovation/"
 
