@@ -127,7 +127,7 @@ items:
   file: content/fr/projects/_index.html
 - title: Nos inspirations
   slug: nos-inspirations
-  target: "/actualites/"
+  target: "/inspirations/"
   kind: page
   new_tab: false
   children: []
