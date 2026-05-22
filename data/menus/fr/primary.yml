@@ -118,7 +118,7 @@ items:
   file: content/fr/pages/secteurs/_index.html
 - title: Nos références
   slug: nos-references
-  target: "/projets/"
+  target: "/references/"
   kind: page
   new_tab: false
   children: []
@@ -127,11 +127,11 @@ items:
   file: content/fr/projects/_index.html
 - title: Nos inspirations
   slug: nos-inspirations
-  target: "/inspirations/"
+  target: "/actualites/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/exhibitions"
-  file: content/fr/exhibitions/_index.html
+  path: "/posts"
+  file: content/fr/posts/_index.html
 

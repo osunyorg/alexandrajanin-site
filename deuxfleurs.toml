@@ -19,10 +19,6 @@ from = "/nos-metiers/accompagnement-individuel-1/mentorat/index.html"
 to = "/nos-metiers/accompagnement-individuel-1/mentor/"
 
 [[redirects]]
-from = "/expositions/index.html"
-to = "/inspirations/"
-
-[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/facilitateur-devenements-professionnels/index.html"
 to = "/nos-metiers/transformation-des-organisations/animateur-de-rencontres-professionnelles/"
 
@@ -33,6 +29,10 @@ to = "/nos-metiers/accompagnement-individuel-1/mentor/"
 [[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
 to = "/qui-sommes-nous-1/equipe-editoriale/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/references/"
 
 [[redirects]]
 from = "/expertises/pierre-yves-legrand/index.html"
@@ -63,16 +63,12 @@ from = "/nos-metiers/transformation-des-organisations/animer-des-dynamiques-coll
 to = "/nos-metiers/transformation-des-organisations/animateur-de-reseaux-et-de-communautes/"
 
 [[redirects]]
-from = "/expositions/archives-expositions/index.html"
-to = "/inspirations/archives-expositions/"
-
-[[redirects]]
-from = "/references/index.html"
-to = "/actualites/"
-
-[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/consultant-en-prospective-et-strategie/index.html"
 to = "/nos-metiers/transformation-des-organisations/consultant-en-strategie-et-prospective/"
+
+[[redirects]]
+from = "/inspirations/archives-expositions/index.html"
+to = "/expositions/archives-expositions/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/conseil-en-prospective-et-strategie/index.html"
@@ -93,6 +89,10 @@ to = "/qui-sommes-nous-1/"
 [[redirects]]
 from = "/secteurs/construction/index.html"
 to = "/secteurs/construction-immobilier-amenagement-urbanisme/"
+
+[[redirects]]
+from = "/inspirations/index.html"
+to = "/expositions/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/relations-publiques/index.html"
