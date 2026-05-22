@@ -39,10 +39,6 @@ from = "/expertises/pierre-yves-legrand/index.html"
 to = "/qui-sommes-nous-1/pierre-yves-legrand/"
 
 [[redirects]]
-from = "/secteurs/rse-toutes-entreprises/index.html"
-to = "/secteurs/rse/"
-
-[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/podcast/index.html"
 to = "/nos-metiers/transformation-des-organisations/podcasteur/"
 
