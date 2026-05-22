@@ -122,3 +122,7 @@ to = "/qui-sommes-nous-1/nos-missions/"
 from = "/nos-metiers/transformation-des-organisations/accompagner-lemergence-de-linnovation/index.html"
 to = "/nos-metiers/transformation-des-organisations/facilitateur-d-innovation/"
 
+[[redirects]]
+from = "/actualites/mentorat/index.html"
+to = "/actualites/metiers/mentorat/"
+
