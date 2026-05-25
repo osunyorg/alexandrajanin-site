@@ -155,6 +155,10 @@ from = "/actualites/2025-12-31-notre-cadeau-de-fin-dannee-du-temps-pour-transfor
 to = "/inspirations/2025-12-31-notre-cadeau-de-fin-dannee-du-temps-pour-transformer/"
 
 [[redirects]]
+from = "/inspirations/dynamique-de-projets-dans-les-territoires/index.html"
+to = "/inspirations/expertises/dynamique-de-projets-dans-les-territoires/"
+
+[[redirects]]
 from = "/actualites/2026-04-28-metamorfoz-reference-parmi-les-offreurs-de-solutions-rse-par-nantes-metropole/index.html"
 to = "/inspirations/2026-04-28-metamorfoz-reference-parmi-les-offreurs-de-solutions-rse-par-nantes-metropole/"
 
