@@ -15,10 +15,6 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/nos-metiers/accompagnement-individuel-1/mentorat/index.html"
-to = "/nos-metiers/accompagnement-individuel-1/mentor/"
-
-[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/facilitateur-devenements-professionnels/index.html"
 to = "/nos-metiers/transformation-des-organisations/animateur-de-rencontres-professionnelles/"
 
@@ -28,7 +24,7 @@ to = "/inspirations/expertises/"
 
 [[redirects]]
 from = "/nos-metiers/mentorat/index.html"
-to = "/nos-metiers/accompagnement-individuel-1/mentor/"
+to = "/nos-metiers/accompagnement-individuel-1/mentorat/"
 
 [[redirects]]
 from = "/actualites/metiers/conferencier/index.html"
@@ -49,10 +45,6 @@ to = "/references/"
 [[redirects]]
 from = "/expertises/pierre-yves-legrand/index.html"
 to = "/qui-sommes-nous-1/pierre-yves-legrand/"
-
-[[redirects]]
-from = "/actualites/metiers/catalyseurs-du-changement/index.html"
-to = "/inspirations/metiers/catalyseurs-du-changement/"
 
 [[redirects]]
 from = "/actualites/secteurs-filieres/index.html"
@@ -76,7 +68,7 @@ to = "/nos-metiers/transformation-des-organisations/accompagnement-a-la-structur
 
 [[redirects]]
 from = "/nos-metiers/accompagnement-individuel/index.html"
-to = "/nos-metiers/accompagnement-individuel-1/mentor/"
+to = "/nos-metiers/accompagnement-individuel-1/mentorat/"
 
 [[redirects]]
 from = "/pierre-yves-legrand/index.html"
@@ -177,6 +169,10 @@ to = "/nos-metiers/transformation-des-organisations/facilitateur-d-innovation/"
 [[redirects]]
 from = "/actualites/metiers/index.html"
 to = "/inspirations/metiers/"
+
+[[redirects]]
+from = "/nos-metiers/accompagnement-individuel-1/mentor/index.html"
+to = "/nos-metiers/accompagnement-individuel-1/mentorat/"
 
 [[redirects]]
 from = "/actualites/mentorat/index.html"
