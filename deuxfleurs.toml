@@ -99,6 +99,10 @@ from = "/actualites/2026-03-12-metamorfoz-present-a-la-rencontre-annuelle-dapmo/
 to = "/inspirations/2026-03-12-metamorfoz-present-a-la-rencontre-annuelle-dapmo/"
 
 [[redirects]]
+from = "/nos-metiers/transformation-des-territoires/regenerer-les-territoires-en-activant-leur-precieux-facteur-humain/index.html"
+to = "/nos-metiers/transformation-des-territoires/amo-programmiste/"
+
+[[redirects]]
 from = "/actualites/solutions-prestations/index.html"
 to = "/inspirations/solutions-prestations/"
 
