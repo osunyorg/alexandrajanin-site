@@ -15,6 +15,10 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/inspirations/qui-sommes-nous/index.html"
+to = "/inspirations/a-propos/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/facilitateur-devenements-professionnels/index.html"
 to = "/nos-metiers/transformation-des-organisations/animateur-de-rencontres-professionnelles/"
 
@@ -48,7 +52,7 @@ to = "/qui-sommes-nous-1/pierre-yves-legrand/"
 
 [[redirects]]
 from = "/actualites/secteurs-filieres/index.html"
-to = "/inspirations/secteurs-filieres/"
+to = "/inspirations/secteurs/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/podcast/index.html"
@@ -83,6 +87,10 @@ from = "/nos-metiers/transformation-des-organisations/animer-des-dynamiques-coll
 to = "/nos-metiers/transformation-des-organisations/animateur-de-reseaux-et-de-communautes/"
 
 [[redirects]]
+from = "/inspirations/solutions-prestations/index.html"
+to = "/inspirations/solutions/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/consultant-en-prospective-et-strategie/index.html"
 to = "/nos-metiers/transformation-des-organisations/consultant-en-strategie-et-prospective/"
 
@@ -104,7 +112,7 @@ to = "/nos-metiers/transformation-des-territoires/amo-programmiste/"
 
 [[redirects]]
 from = "/actualites/solutions-prestations/index.html"
-to = "/inspirations/solutions-prestations/"
+to = "/inspirations/solutions/"
 
 [[redirects]]
 from = "/projets/2025-animation-de-la-5e-conference-de-leau-des-pays-de-la-loire/index.html"
@@ -171,8 +179,16 @@ from = "/nos-missions/index.html"
 to = "/qui-sommes-nous-1/nos-missions/"
 
 [[redirects]]
+from = "/inspirations/secteurs-filieres/index.html"
+to = "/inspirations/secteurs/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/accompagner-lemergence-de-linnovation/index.html"
 to = "/nos-metiers/transformation-des-organisations/facilitateur-d-innovation/"
+
+[[redirects]]
+from = "/references/qui-sommes-nous/index.html"
+to = "/references/a-propos/"
 
 [[redirects]]
 from = "/actualites/metiers/index.html"
