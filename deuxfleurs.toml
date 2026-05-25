@@ -27,6 +27,10 @@ from = "/actualites/expertises/index.html"
 to = "/inspirations/expertises/"
 
 [[redirects]]
+from = "/inspirations/secteurs-filieres/filieres-bio-sourcees/index.html"
+to = "/inspirations/secteurs/filieres-bio-sourcees/"
+
+[[redirects]]
 from = "/nos-metiers/mentorat/index.html"
 to = "/nos-metiers/accompagnement-individuel-1/mentorat/"
 
