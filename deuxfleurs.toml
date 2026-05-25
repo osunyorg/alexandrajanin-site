@@ -131,6 +131,10 @@ from = "/personnes/index.html"
 to = "/qui-sommes-nous-1/"
 
 [[redirects]]
+from = "/vos-besoins-nos-solutions/vous-cherchez-un-partage-dexperiences-et-un-espace-dechange-sur-vos-engagements/index.html"
+to = "/vos-besoins-nos-solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires/"
+
+[[redirects]]
 from = "/secteurs/construction/index.html"
 to = "/secteurs/construction-immobilier-amenagement-urbanisme/"
 
