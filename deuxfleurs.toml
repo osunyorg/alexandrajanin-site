@@ -95,6 +95,10 @@ from = "/nos-metiers/transformation-des-organisations/consultant-en-prospective-
 to = "/nos-metiers/transformation-des-organisations/consultant-en-strategie-et-prospective/"
 
 [[redirects]]
+from = "/inspirations/solutions-prestations/moment-fort/index.html"
+to = "/inspirations/solutions/moment-fort/"
+
+[[redirects]]
 from = "/inspirations/archives-expositions/index.html"
 to = "/expositions/archives-expositions/"
 
@@ -181,6 +185,10 @@ to = "/qui-sommes-nous-1/nos-missions/"
 [[redirects]]
 from = "/inspirations/secteurs-filieres/index.html"
 to = "/inspirations/secteurs/"
+
+[[redirects]]
+from = "/inspirations/vulgarisateur/index.html"
+to = "/inspirations/metiers/vulgarisateur/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/accompagner-lemergence-de-linnovation/index.html"
