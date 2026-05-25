@@ -39,6 +39,10 @@ from = "/actualites/metiers/mentorat/index.html"
 to = "/inspirations/metiers/mentorat/"
 
 [[redirects]]
+from = "/inspirations/solutions-prestations/approfondir-un-sujet/index.html"
+to = "/inspirations/solutions/prendre-du-recul/"
+
+[[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
 to = "/qui-sommes-nous-1/equipe-editoriale/"
 
@@ -109,6 +113,14 @@ to = "/inspirations/2025-04-30-lancement-de-metamorfoz/"
 [[redirects]]
 from = "/actualites/2026-03-12-metamorfoz-present-a-la-rencontre-annuelle-dapmo/index.html"
 to = "/inspirations/2026-03-12-metamorfoz-present-a-la-rencontre-annuelle-dapmo/"
+
+[[redirects]]
+from = "/inspirations/solutions-prestations/partage/index.html"
+to = "/inspirations/solutions/approfondir-un-sujet/"
+
+[[redirects]]
+from = "/inspirations/solutions/partage/index.html"
+to = "/inspirations/solutions/approfondir-un-sujet/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-territoires/regenerer-les-territoires-en-activant-leur-precieux-facteur-humain/index.html"
