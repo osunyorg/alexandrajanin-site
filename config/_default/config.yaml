@@ -6,8 +6,8 @@ params:
   search:
     active: true
   logo:
-    header: ''
-    footer: ''
+    header: '/assets/images/logo-vertical-white.svg'
+    footer: '/assets/images/logo-square-white.svg'
   home:
     head:
       title: site
