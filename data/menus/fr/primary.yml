@@ -1,13 +1,83 @@
 ---
 title: Menu principal
 items:
-- title: Qui sommes-nous ?
-  slug: qui-sommes-nous
+- title: A propos
+  slug: a-propos
   target: "/qui-sommes-nous-1/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Nos engagements
+    slug: nos-engagements
+    target: "/qui-sommes-nous-1/nos-engagements/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/qui-sommes-nous-1/nos-engagements"
+    file: content/fr/pages/qui-sommes-nous-1/nos-engagements/_index.html
+  - title: Notre intervenant principal
+    slug: notre-intervenant-principal
+    target: "/qui-sommes-nous-1/pierre-yves-legrand/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/qui-sommes-nous-1/pierre-yves-legrand"
+    file: content/fr/pages/qui-sommes-nous-1/pierre-yves-legrand/_index.html
+  - title: Notre style unique
+    slug: notre-style-unique
+    target: "/qui-sommes-nous-1/notre-style-unique/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/qui-sommes-nous-1/notre-style-unique"
+    file: content/fr/pages/qui-sommes-nous-1/notre-style-unique/_index.html
+  - title: Notre communauté
+    slug: notre-communaute
+    target: "/qui-sommes-nous-1/notre-communaute/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/qui-sommes-nous-1/notre-communaute"
+    file: content/fr/pages/qui-sommes-nous-1/notre-communaute/_index.html
+  - title: Notre raison d'être
+    slug: notre-raison-d-etre
+    target: "/qui-sommes-nous-1/notre-raison-detre/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/qui-sommes-nous-1/notre-raison-detre"
+    file: content/fr/pages/qui-sommes-nous-1/notre-raison-detre/_index.html
+  - title: Nos missions
+    slug: nos-missions
+    target: "/qui-sommes-nous-1/nos-missions/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/qui-sommes-nous-1/nos-missions"
+    file: content/fr/pages/qui-sommes-nous-1/nos-missions/_index.html
+  - title: Qu'en pensez-vous ?
+    slug: qu-en-pensez-vous
+    target: "/qui-sommes-nous-1/quen-pensez-vous-1/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/qui-sommes-nous-1/quen-pensez-vous-1"
+    file: content/fr/pages/qui-sommes-nous-1/quen-pensez-vous-1/_index.html
+  descendants_targets:
+  - "/qui-sommes-nous-1/nos-engagements/"
+  - "/qui-sommes-nous-1/nos-missions/"
+  - "/qui-sommes-nous-1/notre-communaute/"
+  - "/qui-sommes-nous-1/notre-raison-detre/"
+  - "/qui-sommes-nous-1/notre-style-unique/"
+  - "/qui-sommes-nous-1/pierre-yves-legrand/"
+  - "/qui-sommes-nous-1/quen-pensez-vous-1/"
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Nos métiers
