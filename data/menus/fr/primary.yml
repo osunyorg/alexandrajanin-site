@@ -61,34 +61,34 @@ items:
     descendants_targets: []
     path: "/pages/qui-sommes-nous-1/nos-missions"
     file: content/fr/pages/qui-sommes-nous-1/nos-missions/_index.html
-  - title: Qu'en pensez-vous ?
-    slug: qu-en-pensez-vous
-    target: "/qui-sommes-nous-1/quen-pensez-vous-1/"
+  - title: Ils en parlent
+    slug: ils-en-parlent
+    target: "/qui-sommes-nous-1/ils-en-parlent/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/qui-sommes-nous-1/quen-pensez-vous-1"
-    file: content/fr/pages/qui-sommes-nous-1/quen-pensez-vous-1/_index.html
+    path: "/pages/qui-sommes-nous-1/ils-en-parlent"
+    file: content/fr/pages/qui-sommes-nous-1/ils-en-parlent/_index.html
   descendants_targets:
+  - "/qui-sommes-nous-1/ils-en-parlent/"
   - "/qui-sommes-nous-1/nos-engagements/"
   - "/qui-sommes-nous-1/nos-missions/"
   - "/qui-sommes-nous-1/notre-communaute/"
   - "/qui-sommes-nous-1/notre-raison-detre/"
   - "/qui-sommes-nous-1/notre-style-unique/"
   - "/qui-sommes-nous-1/pierre-yves-legrand/"
-  - "/qui-sommes-nous-1/quen-pensez-vous-1/"
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Nos métiers
   slug: nos-metiers
-  target: "/nos-metiers/"
+  target: "/metiers/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/nos-metiers"
-  file: content/fr/pages/nos-metiers/_index.html
+  path: "/pages/metiers"
+  file: content/fr/pages/metiers/_index.html
 - title: Nos expertises
   slug: nos-expertises
   target: "/expertises/"
@@ -120,13 +120,13 @@ items:
   file: content/fr/pages/expertises/_index.html
 - title: Vos besoins, nos solutions
   slug: vos-besoins-nos-solutions
-  target: "/vos-besoins-nos-solutions/"
+  target: "/solutions/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/vos-besoins-nos-solutions"
-  file: content/fr/pages/vos-besoins-nos-solutions/_index.html
+  path: "/pages/solutions"
+  file: content/fr/pages/solutions/_index.html
 - title: Secteurs
   slug: secteurs
   target: "/secteurs/"

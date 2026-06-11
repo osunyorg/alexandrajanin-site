@@ -51,6 +51,10 @@ from = "/inspirations/secteurs-filieres/organisations-professionnelles/index.htm
 to = "/inspirations/secteurs/organisations-professionnelles/"
 
 [[redirects]]
+from = "/nos-metiers/index.html"
+to = "/metiers/"
+
+[[redirects]]
 from = "/actualites/metiers/mentorat/index.html"
 to = "/inspirations/metiers/mentorat/"
 
@@ -75,6 +79,10 @@ from = "/expertises/pierre-yves-legrand/index.html"
 to = "/qui-sommes-nous-1/pierre-yves-legrand/"
 
 [[redirects]]
+from = "/vos-besoins-nos-solutions/index.html"
+to = "/solutions/"
+
+[[redirects]]
 from = "/inspirations/secteurs-filieres/collectivites/index.html"
 to = "/inspirations/secteurs/collectivites/"
 
@@ -87,6 +95,10 @@ from = "/nos-metiers/transformation-des-organisations/podcast/index.html"
 to = "/nos-metiers/transformation-des-organisations/podcasteur/"
 
 [[redirects]]
+from = "/nos-metiers/transformation-des-organisations/index.html"
+to = "/metiers/facilitation-collective/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/animateur-dateliers-de-sensibilisation-a-larchitecture-et-a-lurbanisme-regeneratifs/index.html"
 to = "/nos-metiers/transformation-des-organisations/vulgarisateur/"
 
@@ -97,6 +109,10 @@ to = "/inspirations/2026-01-30-metamorfoz-shabille-tout-en-bleu-avec-sa-nouvelle
 [[redirects]]
 from = "/accompagnement-a-la-structuration-de-filiere/index.html"
 to = "/nos-metiers/transformation-des-organisations/accompagnement-a-la-structuration-de-filiere/"
+
+[[redirects]]
+from = "/nos-metiers/accompagnement-individuel-1/index.html"
+to = "/metiers/facilitation-individuelle-1/"
 
 [[redirects]]
 from = "/nos-metiers/accompagnement-individuel/index.html"
@@ -151,6 +167,10 @@ from = "/inspirations/secteurs-filieres/rse/index.html"
 to = "/inspirations/secteurs/rse/"
 
 [[redirects]]
+from = "/nos-metiers/transformation-des-territoires/index.html"
+to = "/metiers/facilitation-des-projets/"
+
+[[redirects]]
 from = "/inspirations/qui-sommes-nous/notre-raison-d-etre/index.html"
 to = "/inspirations/a-propos/notre-raison-d-etre/"
 
@@ -165,6 +185,10 @@ to = "/inspirations/solutions/approfondir-un-sujet/"
 [[redirects]]
 from = "/nos-metiers/transformation-des-territoires/regenerer-les-territoires-en-activant-leur-precieux-facteur-humain/index.html"
 to = "/nos-metiers/transformation-des-territoires/amo-programmiste/"
+
+[[redirects]]
+from = "/qui-sommes-nous-1/quen-pensez-vous-1/index.html"
+to = "/qui-sommes-nous-1/ils-en-parlent/"
 
 [[redirects]]
 from = "/actualites/solutions-prestations/index.html"
