@@ -135,6 +135,10 @@ from = "/nos-metiers/transformation-des-organisations/animer-des-dynamiques-coll
 to = "/nos-metiers/transformation-des-organisations/animateur-de-reseaux-et-de-communautes/"
 
 [[redirects]]
+from = "/nos-metiers/transformation-des-territoires/amo-programmiste/index.html"
+to = "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
+
+[[redirects]]
 from = "/inspirations/solutions-prestations/index.html"
 to = "/inspirations/solutions/"
 
@@ -184,7 +188,7 @@ to = "/inspirations/solutions/approfondir-un-sujet/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-territoires/regenerer-les-territoires-en-activant-leur-precieux-facteur-humain/index.html"
-to = "/nos-metiers/transformation-des-territoires/amo-programmiste/"
+to = "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
 
 [[redirects]]
 from = "/qui-sommes-nous-1/quen-pensez-vous-1/index.html"
