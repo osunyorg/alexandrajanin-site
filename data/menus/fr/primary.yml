@@ -85,8 +85,214 @@ items:
   target: "/metiers/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Facilitation individuelle
+    slug: facilitation-individuelle
+    target: "/metiers/facilitation-individuelle-1/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Mentorat
+      slug: mentorat
+      target: "/metiers/facilitation-individuelle-1/mentorat/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-individuelle-1/mentorat"
+      file: content/fr/pages/metiers/facilitation-individuelle-1/mentorat/_index.html
+    descendants_targets:
+    - "/metiers/facilitation-individuelle-1/mentorat/"
+    path: "/pages/metiers/facilitation-individuelle-1"
+    file: content/fr/pages/metiers/facilitation-individuelle-1/_index.html
+  - title: Facilitation collective
+    slug: facilitation-collective
+    target: "/metiers/facilitation-collective/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Conférencier
+      slug: conferencier
+      target: "/metiers/facilitation-collective/conferencier/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/conferencier"
+      file: content/fr/pages/metiers/facilitation-collective/conferencier/_index.html
+    - title: Vulgarisateur
+      slug: vulgarisateur
+      target: "/metiers/facilitation-collective/vulgarisateur/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/vulgarisateur"
+      file: content/fr/pages/metiers/facilitation-collective/vulgarisateur/_index.html
+    - title: Médiateur de connaissance
+      slug: mediateur-de-connaissance
+      target: "/metiers/facilitation-collective/mediateur-de-connaissance/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/mediateur-de-connaissance"
+      file: content/fr/pages/metiers/facilitation-collective/mediateur-de-connaissance/_index.html
+    - title: Faiseur de liens
+      slug: faiseur-de-liens
+      target: "/metiers/facilitation-collective/mise-en-relation/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/mise-en-relation"
+      file: content/fr/pages/metiers/facilitation-collective/mise-en-relation/_index.html
+    - title: Consultant en stratégie et prospective
+      slug: consultant-en-strategie-et-prospective
+      target: "/metiers/facilitation-collective/consultant-en-strategie-et-prospective/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/consultant-en-strategie-et-prospective"
+      file: content/fr/pages/metiers/facilitation-collective/consultant-en-strategie-et-prospective/_index.html
+    - title: Structurateur de filière
+      slug: structurateur-de-filiere
+      target: "/metiers/facilitation-collective/accompagnement-a-la-structuration-de-filiere/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/accompagnement-a-la-structuration-de-filiere"
+      file: content/fr/pages/metiers/facilitation-collective/accompagnement-a-la-structuration-de-filiere/_index.html
+    - title: Animateur de rencontres professionnelles
+      slug: animateur-de-rencontres-professionnelles
+      target: "/metiers/facilitation-collective/animateur-de-rencontres-professionnelles/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/animateur-de-rencontres-professionnelles"
+      file: content/fr/pages/metiers/facilitation-collective/animateur-de-rencontres-professionnelles/_index.html
+    - title: Facilitateur d'ateliers d'intelligence collective
+      slug: facilitateur-d-ateliers-d-intelligence-collective
+      target: "/metiers/facilitation-collective/facilitateur-dateliers-dintelligence-collective/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/facilitateur-dateliers-dintelligence-collective"
+      file: content/fr/pages/metiers/facilitation-collective/facilitateur-dateliers-dintelligence-collective/_index.html
+    - title: Facilitateur d'innovation
+      slug: facilitateur-d-innovation
+      target: "/metiers/facilitation-collective/facilitateur-d-innovation/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/facilitateur-d-innovation"
+      file: content/fr/pages/metiers/facilitation-collective/facilitateur-d-innovation/_index.html
+    - title: Animateur de réseaux et de communautés
+      slug: animateur-de-reseaux-et-de-communautes
+      target: "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes"
+      file: content/fr/pages/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/_index.html
+    - title: Conseiller éditorial
+      slug: conseiller-editorial
+      target: "/metiers/facilitation-collective/conseiller-editorial/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/conseiller-editorial"
+      file: content/fr/pages/metiers/facilitation-collective/conseiller-editorial/_index.html
+    - title: Rédacteur - journaliste
+      slug: redacteur-journaliste
+      target: "/metiers/facilitation-collective/redacteur-journaliste/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/redacteur-journaliste"
+      file: content/fr/pages/metiers/facilitation-collective/redacteur-journaliste/_index.html
+    - title: Podcasteur
+      slug: podcasteur
+      target: "/metiers/facilitation-collective/podcasteur/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/podcasteur"
+      file: content/fr/pages/metiers/facilitation-collective/podcasteur/_index.html
+    - title: Chargé de relations publiques
+      slug: charge-de-relations-publiques
+      target: "/metiers/facilitation-collective/charge-de-relations-publiques/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-collective/charge-de-relations-publiques"
+      file: content/fr/pages/metiers/facilitation-collective/charge-de-relations-publiques/_index.html
+    descendants_targets:
+    - "/metiers/facilitation-collective/accompagnement-a-la-structuration-de-filiere/"
+    - "/metiers/facilitation-collective/animateur-de-rencontres-professionnelles/"
+    - "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
+    - "/metiers/facilitation-collective/charge-de-relations-publiques/"
+    - "/metiers/facilitation-collective/conferencier/"
+    - "/metiers/facilitation-collective/conseiller-editorial/"
+    - "/metiers/facilitation-collective/consultant-en-strategie-et-prospective/"
+    - "/metiers/facilitation-collective/facilitateur-d-innovation/"
+    - "/metiers/facilitation-collective/facilitateur-dateliers-dintelligence-collective/"
+    - "/metiers/facilitation-collective/mediateur-de-connaissance/"
+    - "/metiers/facilitation-collective/mise-en-relation/"
+    - "/metiers/facilitation-collective/podcasteur/"
+    - "/metiers/facilitation-collective/redacteur-journaliste/"
+    - "/metiers/facilitation-collective/vulgarisateur/"
+    path: "/pages/metiers/facilitation-collective"
+    file: content/fr/pages/metiers/facilitation-collective/_index.html
+  - title: Facilitation des projets
+    slug: facilitation-des-projets
+    target: "/metiers/facilitation-des-projets/"
+    kind: page
+    new_tab: false
+    children:
+    - title: Facilitateur dans les projets de construction-immobilier-aménagement
+      slug: facilitateur-dans-les-projets-de-construction-immobilier-amenagement
+      target: "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement"
+      file: content/fr/pages/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/_index.html
+    descendants_targets:
+    - "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
+    path: "/pages/metiers/facilitation-des-projets"
+    file: content/fr/pages/metiers/facilitation-des-projets/_index.html
+  descendants_targets:
+  - "/metiers/facilitation-collective/"
+  - "/metiers/facilitation-collective/accompagnement-a-la-structuration-de-filiere/"
+  - "/metiers/facilitation-collective/animateur-de-rencontres-professionnelles/"
+  - "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
+  - "/metiers/facilitation-collective/charge-de-relations-publiques/"
+  - "/metiers/facilitation-collective/conferencier/"
+  - "/metiers/facilitation-collective/conseiller-editorial/"
+  - "/metiers/facilitation-collective/consultant-en-strategie-et-prospective/"
+  - "/metiers/facilitation-collective/facilitateur-d-innovation/"
+  - "/metiers/facilitation-collective/facilitateur-dateliers-dintelligence-collective/"
+  - "/metiers/facilitation-collective/mediateur-de-connaissance/"
+  - "/metiers/facilitation-collective/mise-en-relation/"
+  - "/metiers/facilitation-collective/podcasteur/"
+  - "/metiers/facilitation-collective/redacteur-journaliste/"
+  - "/metiers/facilitation-collective/vulgarisateur/"
+  - "/metiers/facilitation-des-projets/"
+  - "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
+  - "/metiers/facilitation-individuelle-1/"
+  - "/metiers/facilitation-individuelle-1/mentorat/"
   path: "/pages/metiers"
   file: content/fr/pages/metiers/_index.html
 - title: Expertises
@@ -94,19 +300,40 @@ items:
   target: "/expertises/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Bien-être personnel
+    slug: bien-etre-personnel
+    target: "/expertises/bien-etre-personnel/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/expertises/bien-etre-personnel"
+    file: content/fr/pages/expertises/bien-etre-personnel/_index.html
+  - title: Dynamiques collectives
+    slug: dynamiques-collectives
+    target: "/expertises/dynamiques-collectives/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/expertises/dynamiques-collectives"
+    file: content/fr/pages/expertises/dynamiques-collectives/_index.html
+  - title: Dynamique de projets dans les territoires
+    slug: dynamique-de-projets-dans-les-territoires
+    target: "/expertises/deploiement-de-projets-a-impact-dans-les-territoires/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/expertises/deploiement-de-projets-a-impact-dans-les-territoires"
+    file: content/fr/pages/expertises/deploiement-de-projets-a-impact-dans-les-territoires/_index.html
+  descendants_targets:
+  - "/expertises/bien-etre-personnel/"
+  - "/expertises/deploiement-de-projets-a-impact-dans-les-territoires/"
+  - "/expertises/dynamiques-collectives/"
   path: "/pages/expertises"
   file: content/fr/pages/expertises/_index.html
-- title: Solutions
-  slug: solutions
-  target: "/solutions/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/solutions"
-  file: content/fr/pages/solutions/_index.html
 - title: Secteurs
   slug: secteurs
   target: "/secteurs/"
@@ -131,8 +358,26 @@ items:
     descendants_targets: []
     path: "/pages/secteurs/collectivites"
     file: content/fr/pages/secteurs/collectivites/_index.html
-  - title: Énergie
-    slug: energie
+  - title: Modèles régénératifs
+    slug: modeles-regeneratifs
+    target: "/secteurs/modeles-regeneratifs/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/modeles-regeneratifs"
+    file: content/fr/pages/secteurs/modeles-regeneratifs/_index.html
+  - title: Filières bio-sourcées
+    slug: filieres-bio-sourcees
+    target: "/secteurs/filieres-bio-sourcees/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/filieres-bio-sourcees"
+    file: content/fr/pages/secteurs/filieres-bio-sourcees/_index.html
+  - title: Énergies
+    slug: energies
     target: "/secteurs/energies/"
     kind: page
     new_tab: false
@@ -140,8 +385,8 @@ items:
     descendants_targets: []
     path: "/pages/secteurs/energies"
     file: content/fr/pages/secteurs/energies/_index.html
-  - title: RSE toutes entreprises
-    slug: rse-toutes-entreprises
+  - title: RSE
+    slug: rse
     target: "/secteurs/rse/"
     kind: page
     new_tab: false
@@ -158,16 +403,110 @@ items:
     descendants_targets: []
     path: "/pages/secteurs/organisations-professionnelles"
     file: content/fr/pages/secteurs/organisations-professionnelles/_index.html
+  - title: Associations
+    slug: associations
+    target: "/secteurs/associations/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/associations"
+    file: content/fr/pages/secteurs/associations/_index.html
   descendants_targets:
+  - "/secteurs/associations/"
   - "/secteurs/collectivites/"
   - "/secteurs/construction-immobilier-amenagement-urbanisme/"
   - "/secteurs/energies/"
+  - "/secteurs/filieres-bio-sourcees/"
+  - "/secteurs/modeles-regeneratifs/"
   - "/secteurs/organisations-professionnelles/"
   - "/secteurs/rse/"
   path: "/pages/secteurs"
   file: content/fr/pages/secteurs/_index.html
-- title: Nos références
-  slug: nos-references
+- title: Solutions
+  slug: solutions
+  target: "/solutions/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Sensibiliser les équipes aux enjeux de la régénération
+    slug: sensibiliser-les-equipes-aux-enjeux-de-la-regeneration
+    target: "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration"
+    file: content/fr/pages/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/_index.html
+  - title: Organiser un moment fort et interactif avec vos équipes, vos clients, partenaires,
+      parties prenantes
+    slug: organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes
+    target: "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes"
+    file: content/fr/pages/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/_index.html
+  - title: Sortir de son isolement, prendre du recul et aligner ses vies pro, perso
+      et communautaires
+    slug: sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires
+    target: "/solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires"
+    file: content/fr/pages/solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires/_index.html
+  - title: Approfondir un sujet
+    slug: approfondir-un-sujet
+    target: "/solutions/approfondir-un-sujet/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/solutions/approfondir-un-sujet"
+    file: content/fr/pages/solutions/approfondir-un-sujet/_index.html
+  - title: Exprimer et formaliser un besoin d'aménagement
+    slug: exprimer-et-formaliser-un-besoin-d-amenagement
+    target: "/solutions/exprimer-et-formaliser-un-besoin-damenagement/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/solutions/exprimer-et-formaliser-un-besoin-damenagement"
+    file: content/fr/pages/solutions/exprimer-et-formaliser-un-besoin-damenagement/_index.html
+  - title: Innover
+    slug: innover
+    target: "/solutions/innover/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/solutions/innover"
+    file: content/fr/pages/solutions/innover/_index.html
+  - title: Mettre en place une dynamique collective - Susciter l'engagement des parties
+      prenantes
+    slug: mettre-en-place-une-dynamique-collective-susciter-l-engagement-des-parties-prenantes
+    target: "/solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement-des-parties-prenantes/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement-des-parties-prenantes"
+    file: content/fr/pages/solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement-des-parties-prenantes/_index.html
+  descendants_targets:
+  - "/solutions/approfondir-un-sujet/"
+  - "/solutions/exprimer-et-formaliser-un-besoin-damenagement/"
+  - "/solutions/innover/"
+  - "/solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement-des-parties-prenantes/"
+  - "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/"
+  - "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/"
+  - "/solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires/"
+  path: "/pages/solutions"
+  file: content/fr/pages/solutions/_index.html
+- title: Références
+  slug: references
   target: "/references/"
   kind: page
   new_tab: false
@@ -175,8 +514,8 @@ items:
   descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Nos inspirations
-  slug: nos-inspirations
+- title: Inspirations
+  slug: inspirations
   target: "/inspirations/"
   kind: page
   new_tab: false
@@ -184,4 +523,13 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Contact
+  slug: contact
+  target: "/contact/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/contact"
+  file: content/fr/pages/contact/_index.html
 
