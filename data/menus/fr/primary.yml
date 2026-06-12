@@ -434,8 +434,38 @@ items:
     target: "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/"
     kind: page
     new_tab: false
-    children: []
-    descendants_targets: []
+    children:
+    - title: "ATELIER | \U0001F3B2 Défi de la construction"
+      slug: atelier-defi-de-la-construction
+      target: "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-defi-de-la-construction/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-defi-de-la-construction"
+      file: content/fr/pages/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-defi-de-la-construction/_index.html
+    - title: "ATELIER | \U0001F440 Adaptation"
+      slug: atelier-adaptation
+      target: "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-adaptation/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-adaptation"
+      file: content/fr/pages/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-adaptation/_index.html
+    - title: "ATELIER | \U0001F6E3️ Fresque TP Infrastructures"
+      slug: atelier-fresque-tp-infrastructures
+      target: "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-fresque-tp-infrastructures/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-fresque-tp-infrastructures"
+      file: content/fr/pages/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-fresque-tp-infrastructures/_index.html
+    descendants_targets:
+    - "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-adaptation/"
+    - "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-defi-de-la-construction/"
+    - "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-fresque-tp-infrastructures/"
     path: "/pages/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration"
     file: content/fr/pages/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/_index.html
   - title: Organiser un moment fort et interactif avec vos équipes, vos clients, partenaires,
@@ -502,6 +532,9 @@ items:
   - "/solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement-des-parties-prenantes/"
   - "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/"
   - "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/"
+  - "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-adaptation/"
+  - "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-defi-de-la-construction/"
+  - "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-fresque-tp-infrastructures/"
   - "/solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires/"
   path: "/pages/solutions"
   file: content/fr/pages/solutions/_index.html
