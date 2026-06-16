@@ -236,7 +236,7 @@ to = "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-constru
 
 [[redirects]]
 from = "/qui-sommes-nous-1/quen-pensez-vous-1/index.html"
-to = "/qui-sommes-nous-1/ils-en-parlent/"
+to = "/qui-sommes-nous/ils-en-parlent/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/mediateur-de-connaissance/index.html"
@@ -349,6 +349,10 @@ to = "/expertises/"
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/facilitateur-dateliers-dintelligence-collective/index.html"
 to = "/metiers/facilitation-collective/facilitateur-dateliers-dintelligence-collective/"
+
+[[redirects]]
+from = "/qui-sommes-nous-1/ils-en-parlent/index.html"
+to = "/qui-sommes-nous/ils-en-parlent/"
 
 [[redirects]]
 from = "/inspirations/qui-sommes-nous/notre-communaute/index.html"
