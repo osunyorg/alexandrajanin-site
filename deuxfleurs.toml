@@ -107,10 +107,6 @@ from = "/nos-metiers/transformation-des-organisations/vulgarisateur/index.html"
 to = "/metiers/facilitation-collective/vulgarisateur/"
 
 [[redirects]]
-from = "/expertises/pierre-yves-legrand/index.html"
-to = "/qui-sommes-nous-test/pierre-yves-legrand/"
-
-[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/mise-en-relation/index.html"
 to = "/metiers/facilitation-collective/mise-en-relation/"
 
@@ -159,20 +155,12 @@ from = "/nos-metiers/accompagnement-individuel/index.html"
 to = "/metiers/facilitation-individuelle-1/mentorat/"
 
 [[redirects]]
-from = "/pierre-yves-legrand/index.html"
-to = "/qui-sommes-nous-test/pierre-yves-legrand/"
-
-[[redirects]]
 from = "/inspirations/solutions-prestations/sensibiliser-les-equipes/index.html"
 to = "/inspirations/solutions/sensibiliser-les-equipes/"
 
 [[redirects]]
 from = "/actualites/2026-05-18-metamorfoz-present-au-festival-chtiiing-nantes-29-mai-2026/index.html"
 to = "/inspirations/2026-05-18-metamorfoz-present-au-festival-chtiiing-nantes-29-mai-2026/"
-
-[[redirects]]
-from = "/qui-sommes-nous-1/nos-engagements/index.html"
-to = "/qui-sommes-nous-test/nos-engagements/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/animer-des-dynamiques-collectives-de-communautes/index.html"
