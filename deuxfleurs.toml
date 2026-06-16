@@ -359,10 +359,6 @@ from = "/nos-metiers/transformation-des-organisations/animateur-de-reseaux-et-de
 to = "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
 
 [[redirects]]
-from = "/nos-missions/index.html"
-to = "/qui-sommes-nous-1/nos-missions/"
-
-[[redirects]]
 from = "/inspirations/secteurs-filieres/index.html"
 to = "/inspirations/secteurs/"
 
