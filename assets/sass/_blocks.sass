@@ -1,0 +1,30 @@
+
+.block-chapter--accent_background
+  figure
+    position: relative
+    &::after
+      content: ''
+      position: absolute
+      bottom: -10px
+      right: 0
+      width: 150px
+      height: 195px
+      background-color: $color-accent
+      -webkit-mask-image: url('/assets/images/logo-symbol-white.svg')
+      -webkit-mask-size: contain
+      -webkit-mask-repeat: no-repeat
+      -webkit-mask-position: center
+      mask-image: url('/assets/images/logo-symbol-white.svg')
+      mask-size: contain
+      mask-repeat: no-repeat
+      mask-position: center
+      z-index: 1
+    img
+      border-radius: 0 10% 40% 0 / 0 60% 95% 0
+
+.block-chapter
+  @include in-page-with-sidebar
+    &--accent_background
+      .chapter
+        .text
+          padding: 2rem var(--grid-gutter) .5rem var(--grid-gutter)
