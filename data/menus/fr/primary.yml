@@ -9,22 +9,22 @@ items:
   children:
   - title: Nos engagements
     slug: nos-engagements
-    target: "/qui-sommes-nous-1/nos-engagements/"
+    target: "/qui-sommes-nous-test/nos-engagements/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/qui-sommes-nous-1/nos-engagements"
-    file: content/fr/pages/qui-sommes-nous-1/nos-engagements/_index.html
+    path: "/pages/qui-sommes-nous-test/nos-engagements"
+    file: content/fr/pages/qui-sommes-nous-test/nos-engagements/_index.html
   - title: Notre intervenant principal
     slug: notre-intervenant-principal
-    target: "/qui-sommes-nous-1/pierre-yves-legrand/"
+    target: "/qui-sommes-nous-test/pierre-yves-legrand/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/qui-sommes-nous-1/pierre-yves-legrand"
-    file: content/fr/pages/qui-sommes-nous-1/pierre-yves-legrand/_index.html
+    path: "/pages/qui-sommes-nous-test/pierre-yves-legrand"
+    file: content/fr/pages/qui-sommes-nous-test/pierre-yves-legrand/_index.html
   - title: Notre style unique
     slug: notre-style-unique
     target: "/qui-sommes-nous-1/notre-style-unique/"
@@ -72,12 +72,12 @@ items:
     file: content/fr/pages/qui-sommes-nous-1/ils-en-parlent/_index.html
   descendants_targets:
   - "/qui-sommes-nous-1/ils-en-parlent/"
-  - "/qui-sommes-nous-1/nos-engagements/"
   - "/qui-sommes-nous-1/nos-missions/"
   - "/qui-sommes-nous-1/notre-communaute/"
   - "/qui-sommes-nous-1/notre-raison-detre/"
   - "/qui-sommes-nous-1/notre-style-unique/"
-  - "/qui-sommes-nous-1/pierre-yves-legrand/"
+  - "/qui-sommes-nous-test/nos-engagements/"
+  - "/qui-sommes-nous-test/pierre-yves-legrand/"
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Métiers
