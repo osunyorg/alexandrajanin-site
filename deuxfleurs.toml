@@ -167,10 +167,6 @@ from = "/nos-metiers/transformation-des-organisations/animer-des-dynamiques-coll
 to = "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
 
 [[redirects]]
-from = "/qui-sommes-nous/index.html"
-to = "/qui-sommes-nous-test/"
-
-[[redirects]]
 from = "/nos-metiers/transformation-des-territoires/amo-programmiste/index.html"
 to = "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
 
