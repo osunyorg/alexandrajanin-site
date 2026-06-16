@@ -3,13 +3,13 @@ title: Menu principal
 items:
 - title: A propos
   slug: a-propos
-  target: "/qui-sommes-nous-1/"
+  target: "/qui-sommes-nous/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
+  path: "/pages/qui-sommes-nous"
+  file: content/fr/pages/qui-sommes-nous/_index.html
 - title: Métiers
   slug: metiers
   target: "/metiers/"
