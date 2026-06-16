@@ -565,4 +565,13 @@ items:
   descendants_targets: []
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
+- title: A propos [test]
+  slug: a-propos-test
+  target: "/qui-sommes-nous-1/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/persons"
+  file: content/fr/persons/_index.html
 
