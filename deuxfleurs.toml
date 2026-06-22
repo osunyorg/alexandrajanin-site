@@ -123,6 +123,10 @@ from = "/actualites/secteurs-filieres/index.html"
 to = "/inspirations/secteurs/"
 
 [[redirects]]
+from = "/qui-sommes-nous/notre-raison-detre-1/index.html"
+to = "/qui-sommes-nous/activer-votre-precieux-facteur-humain-pour-faciliter-vos-transformations/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/podcast/index.html"
 to = "/metiers/facilitation-collective/podcasteur/"
 
@@ -361,6 +365,10 @@ to = "/inspirations/a-propos/notre-communaute/"
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/animateur-de-reseaux-et-de-communautes/index.html"
 to = "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
+
+[[redirects]]
+from = "/notre-raison-detre-1/index.html"
+to = "/qui-sommes-nous/activer-votre-precieux-facteur-humain-pour-faciliter-vos-transformations/"
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/index.html"
