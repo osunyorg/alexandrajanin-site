@@ -20,19 +20,13 @@
             overflow: hidden
             background: var(--color-accent)
             picture
-                position: relative
                 width: columns(5)
-                &::after
-                    content: ''
-                    position: absolute
-                    top: 12rem
-                    right: 25%
-                    display: block
-                    background: url('/assets/images/shape-1.svg')
-                    background-repeat: no-repeat
-                    width: 3rem
-                    height: 2rem
-                    transform: rotate(152deg) scale(10.5)
+                &::before
+                    border-bottom: solid 1px var(--color-accent)
 
-    .block-pages--large .pages .page .media img
-        aspect-ratio: 0
+.block-pages--large .pages .page .media img
+    aspect-ratio: 0
+
+.block-pages--large .pages .page .more
+    color: var(--color-accent)
+    margin-left: $spacing-4
