@@ -10,6 +10,95 @@ items:
   descendants_targets: []
   path: "/pages/qui-sommes-nous"
   file: content/fr/pages/qui-sommes-nous/_index.html
+- title: Secteurs
+  slug: secteurs
+  target: "/secteurs/"
+  kind: page
+  new_tab: false
+  children:
+  - title: Construction | Immobilier | Aménagement | Urbanisme
+    slug: construction-immobilier-amenagement-urbanisme
+    target: "/secteurs/construction-immobilier-amenagement-urbanisme/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/construction-immobilier-amenagement-urbanisme"
+    file: content/fr/pages/secteurs/construction-immobilier-amenagement-urbanisme/_index.html
+  - title: Collectivités
+    slug: collectivites
+    target: "/secteurs/collectivites/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/collectivites"
+    file: content/fr/pages/secteurs/collectivites/_index.html
+  - title: Modèles régénératifs
+    slug: modeles-regeneratifs
+    target: "/secteurs/modeles-regeneratifs/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/modeles-regeneratifs"
+    file: content/fr/pages/secteurs/modeles-regeneratifs/_index.html
+  - title: Filières bio-sourcées
+    slug: filieres-bio-sourcees
+    target: "/secteurs/filieres-bio-sourcees/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/filieres-bio-sourcees"
+    file: content/fr/pages/secteurs/filieres-bio-sourcees/_index.html
+  - title: Énergies
+    slug: energies
+    target: "/secteurs/energies/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/energies"
+    file: content/fr/pages/secteurs/energies/_index.html
+  - title: RSE
+    slug: rse
+    target: "/secteurs/rse/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/rse"
+    file: content/fr/pages/secteurs/rse/_index.html
+  - title: Organisations professionnelles
+    slug: organisations-professionnelles
+    target: "/secteurs/organisations-professionnelles/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/organisations-professionnelles"
+    file: content/fr/pages/secteurs/organisations-professionnelles/_index.html
+  - title: Associations
+    slug: associations
+    target: "/secteurs/associations/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/secteurs/associations"
+    file: content/fr/pages/secteurs/associations/_index.html
+  descendants_targets:
+  - "/secteurs/associations/"
+  - "/secteurs/collectivites/"
+  - "/secteurs/construction-immobilier-amenagement-urbanisme/"
+  - "/secteurs/energies/"
+  - "/secteurs/filieres-bio-sourcees/"
+  - "/secteurs/modeles-regeneratifs/"
+  - "/secteurs/organisations-professionnelles/"
+  - "/secteurs/rse/"
+  path: "/pages/secteurs"
+  file: content/fr/pages/secteurs/_index.html
 - title: Métiers
   slug: metiers
   target: "/metiers/"
@@ -230,129 +319,10 @@ items:
   target: "/expertises/"
   kind: page
   new_tab: false
-  children:
-  - title: Bien-être personnel
-    slug: bien-etre-personnel
-    target: "/expertises/bien-etre-personnel/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/expertises/bien-etre-personnel"
-    file: content/fr/pages/expertises/bien-etre-personnel/_index.html
-  - title: Dynamiques collectives
-    slug: dynamiques-collectives
-    target: "/expertises/dynamiques-collectives/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/expertises/dynamiques-collectives"
-    file: content/fr/pages/expertises/dynamiques-collectives/_index.html
-  - title: Dynamique de projets dans les territoires
-    slug: dynamique-de-projets-dans-les-territoires
-    target: "/expertises/deploiement-de-projets-a-impact-dans-les-territoires/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/expertises/deploiement-de-projets-a-impact-dans-les-territoires"
-    file: content/fr/pages/expertises/deploiement-de-projets-a-impact-dans-les-territoires/_index.html
-  descendants_targets:
-  - "/expertises/bien-etre-personnel/"
-  - "/expertises/deploiement-de-projets-a-impact-dans-les-territoires/"
-  - "/expertises/dynamiques-collectives/"
+  children: []
+  descendants_targets: []
   path: "/pages/expertises"
   file: content/fr/pages/expertises/_index.html
-- title: Secteurs
-  slug: secteurs
-  target: "/secteurs/"
-  kind: page
-  new_tab: false
-  children:
-  - title: Construction | Immobilier | Aménagement | Urbanisme
-    slug: construction-immobilier-amenagement-urbanisme
-    target: "/secteurs/construction-immobilier-amenagement-urbanisme/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/construction-immobilier-amenagement-urbanisme"
-    file: content/fr/pages/secteurs/construction-immobilier-amenagement-urbanisme/_index.html
-  - title: Collectivités
-    slug: collectivites
-    target: "/secteurs/collectivites/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/collectivites"
-    file: content/fr/pages/secteurs/collectivites/_index.html
-  - title: Modèles régénératifs
-    slug: modeles-regeneratifs
-    target: "/secteurs/modeles-regeneratifs/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/modeles-regeneratifs"
-    file: content/fr/pages/secteurs/modeles-regeneratifs/_index.html
-  - title: Filières bio-sourcées
-    slug: filieres-bio-sourcees
-    target: "/secteurs/filieres-bio-sourcees/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/filieres-bio-sourcees"
-    file: content/fr/pages/secteurs/filieres-bio-sourcees/_index.html
-  - title: Énergies
-    slug: energies
-    target: "/secteurs/energies/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/energies"
-    file: content/fr/pages/secteurs/energies/_index.html
-  - title: RSE
-    slug: rse
-    target: "/secteurs/rse/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/rse"
-    file: content/fr/pages/secteurs/rse/_index.html
-  - title: Organisations professionnelles
-    slug: organisations-professionnelles
-    target: "/secteurs/organisations-professionnelles/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/organisations-professionnelles"
-    file: content/fr/pages/secteurs/organisations-professionnelles/_index.html
-  - title: Associations
-    slug: associations
-    target: "/secteurs/associations/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/secteurs/associations"
-    file: content/fr/pages/secteurs/associations/_index.html
-  descendants_targets:
-  - "/secteurs/associations/"
-  - "/secteurs/collectivites/"
-  - "/secteurs/construction-immobilier-amenagement-urbanisme/"
-  - "/secteurs/energies/"
-  - "/secteurs/filieres-bio-sourcees/"
-  - "/secteurs/modeles-regeneratifs/"
-  - "/secteurs/organisations-professionnelles/"
-  - "/secteurs/rse/"
-  path: "/pages/secteurs"
-  file: content/fr/pages/secteurs/_index.html
 - title: Solutions
   slug: solutions
   target: "/solutions/"
