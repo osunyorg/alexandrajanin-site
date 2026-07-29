@@ -15,6 +15,18 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/inspirations/secteurs/construction-immobilier-amenagement-urbanisme/index.html"
+to = "/actualites/secteurs/construction-immobilier-amenagement-urbanisme/"
+
+[[redirects]]
+from = "/inspirations/metiers/conseiller-editorial/index.html"
+to = "/actualites/metiers/conseiller-editorial/"
+
+[[redirects]]
+from = "/inspirations/solutions/mettre-en-dynamique/index.html"
+to = "/actualites/solutions/mettre-en-dynamique/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/conseiller-editorial/index.html"
 to = "/metiers/facilitation-collective/conseiller-editorial/"
 
@@ -23,12 +35,20 @@ from = "/inspirations/2026-01-30-metamorfoz-shabille-tout-en-bleu-avec-sa-nouvel
 to = "/actualites/2026-01-30-metamorfoz-shabille-tout-en-bleu-avec-sa-nouvelle-charte-graphique/"
 
 [[redirects]]
+from = "/inspirations/a-propos/notre-raison-d-etre/index.html"
+to = "/actualites/a-propos/notre-raison-d-etre/"
+
+[[redirects]]
+from = "/inspirations/solutions/prendre-du-recul/index.html"
+to = "/actualites/solutions/prendre-du-recul/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/charge-de-relations-publiques/index.html"
 to = "/metiers/facilitation-collective/charge-de-relations-publiques/"
 
 [[redirects]]
 from = "/inspirations/qui-sommes-nous/notre-style-unique/index.html"
-to = "/inspirations/a-propos/notre-style-unique/"
+to = "/actualites/a-propos/notre-style-unique/"
 
 [[redirects]]
 from = "/inspirations/index.html"
@@ -40,7 +60,7 @@ to = "/metiers/facilitation-collective/animateur-de-rencontres-professionnelles/
 
 [[redirects]]
 from = "/inspirations/qui-sommes-nous/index.html"
-to = "/inspirations/a-propos/"
+to = "/actualites/a-propos/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/accompagnement-a-la-structuration-de-filiere/index.html"
@@ -48,15 +68,11 @@ to = "/metiers/facilitation-collective/accompagnement-a-la-structuration-de-fili
 
 [[redirects]]
 from = "/inspirations/qui-sommes-nous/temoignages/index.html"
-to = "/inspirations/a-propos/temoignages/"
+to = "/actualites/a-propos/temoignages/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/facilitateur-devenements-professionnels/index.html"
 to = "/metiers/facilitation-collective/animateur-de-rencontres-professionnelles/"
-
-[[redirects]]
-from = "/actualites/expertises/index.html"
-to = "/inspirations/expertises/"
 
 [[redirects]]
 from = "/vos-besoins-nos-solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires/index.html"
@@ -64,35 +80,35 @@ to = "/solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pr
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/filieres-bio-sourcees/index.html"
-to = "/inspirations/secteurs/filieres-bio-sourcees/"
+to = "/actualites/secteurs/filieres-bio-sourcees/"
 
 [[redirects]]
 from = "/nos-metiers/mentorat/index.html"
 to = "/metiers/facilitation-individuelle-1/mentorat/"
 
 [[redirects]]
-from = "/actualites/metiers/conferencier/index.html"
-to = "/inspirations/metiers/conferencier/"
-
-[[redirects]]
 from = "/inspirations/secteurs-filieres/organisations-professionnelles/index.html"
-to = "/inspirations/secteurs/organisations-professionnelles/"
+to = "/actualites/secteurs/organisations-professionnelles/"
 
 [[redirects]]
 from = "/nos-metiers/index.html"
 to = "/metiers/"
 
 [[redirects]]
-from = "/actualites/metiers/mentorat/index.html"
-to = "/inspirations/metiers/mentorat/"
+from = "/inspirations/a-propos/nos-missions/index.html"
+to = "/actualites/a-propos/nos-missions/"
+
+[[redirects]]
+from = "/inspirations/solutions/innover/index.html"
+to = "/actualites/solutions/innover/"
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/approfondir-un-sujet/index.html"
-to = "/inspirations/solutions/prendre-du-recul/"
+to = "/actualites/solutions/prendre-du-recul/"
 
 [[redirects]]
 from = "/inspirations/qui-sommes-nous/nos-missions/index.html"
-to = "/inspirations/a-propos/nos-missions/"
+to = "/actualites/a-propos/nos-missions/"
 
 [[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
@@ -115,20 +131,36 @@ from = "/nos-metiers/transformation-des-organisations/vulgarisateur/index.html"
 to = "/metiers/facilitation-collective/vulgarisateur/"
 
 [[redirects]]
+from = "/inspirations/a-propos/notre-intervenant-principal/index.html"
+to = "/actualites/a-propos/notre-intervenant-principal/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/mise-en-relation/index.html"
 to = "/metiers/facilitation-collective/mise-en-relation/"
+
+[[redirects]]
+from = "/inspirations/expertises/bien-etre-personnel/index.html"
+to = "/actualites/expertises/bien-etre-personnel/"
 
 [[redirects]]
 from = "/vos-besoins-nos-solutions/index.html"
 to = "/solutions/"
 
 [[redirects]]
+from = "/inspirations/metiers/facilitateur-d-ateliers-d-intelligence-collective/index.html"
+to = "/actualites/metiers/facilitateur-d-ateliers-d-intelligence-collective/"
+
+[[redirects]]
 from = "/inspirations/secteurs-filieres/collectivites/index.html"
-to = "/inspirations/secteurs/collectivites/"
+to = "/actualites/secteurs/collectivites/"
+
+[[redirects]]
+from = "/inspirations/metiers/charge-de-relations-publiques/index.html"
+to = "/actualites/metiers/charge-de-relations-publiques/"
 
 [[redirects]]
 from = "/actualites/secteurs-filieres/index.html"
-to = "/inspirations/secteurs/"
+to = "/actualites/secteurs/"
 
 [[redirects]]
 from = "/inspirations/2025-12-31-notre-cadeau-de-fin-dannee-du-temps-pour-transformer/index.html"
@@ -147,6 +179,10 @@ from = "/nos-metiers/transformation-des-organisations/index.html"
 to = "/metiers/facilitation-collective/"
 
 [[redirects]]
+from = "/inspirations/a-propos/notre-style-unique/index.html"
+to = "/actualites/a-propos/notre-style-unique/"
+
+[[redirects]]
 from = "/vos-besoins-nos-solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/index.html"
 to = "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/"
 
@@ -159,6 +195,18 @@ from = "/accompagnement-a-la-structuration-de-filiere/index.html"
 to = "/metiers/facilitation-collective/accompagnement-a-la-structuration-de-filiere/"
 
 [[redirects]]
+from = "/inspirations/metiers/animateur-de-rencontres-professionnelles/index.html"
+to = "/actualites/metiers/animateur-de-rencontres-professionnelles/"
+
+[[redirects]]
+from = "/inspirations/metiers/podcasteur/index.html"
+to = "/actualites/metiers/podcasteur/"
+
+[[redirects]]
+from = "/inspirations/expertises/dynamiques-collectives/index.html"
+to = "/actualites/expertises/dynamiques-collectives/"
+
+[[redirects]]
 from = "/nos-metiers/accompagnement-individuel-1/index.html"
 to = "/metiers/facilitation-individuelle-1/"
 
@@ -168,19 +216,35 @@ to = "/metiers/facilitation-individuelle-1/mentorat/"
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/sensibiliser-les-equipes/index.html"
-to = "/inspirations/solutions/sensibiliser-les-equipes/"
+to = "/actualites/solutions/sensibiliser-les-equipes/"
 
 [[redirects]]
 from = "/inspirations/2026-04-28-metamorfoz-reference-parmi-les-offreurs-de-solutions-rse-par-nantes-metropole/index.html"
 to = "/actualites/2026-04-28-metamorfoz-reference-parmi-les-offreurs-de-solutions-rse-par-nantes-metropole/"
 
 [[redirects]]
+from = "/inspirations/solutions/index.html"
+to = "/actualites/solutions/"
+
+[[redirects]]
 from = "/qui-sommes-nous-1/pierre-yves-legrand/inspirations/index.html"
 to = "/qui-sommes-nous-1/pierre-yves-legrand/actualites/"
 
 [[redirects]]
+from = "/inspirations/secteurs/collectivites/index.html"
+to = "/actualites/secteurs/collectivites/"
+
+[[redirects]]
+from = "/inspirations/a-propos/notre-communaute/index.html"
+to = "/actualites/a-propos/notre-communaute/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/animer-des-dynamiques-collectives-de-communautes/index.html"
 to = "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
+
+[[redirects]]
+from = "/inspirations/metiers/mediateur-de-connaissances/index.html"
+to = "/actualites/metiers/mediateur-de-connaissances/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-territoires/amo-programmiste/index.html"
@@ -188,19 +252,35 @@ to = "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-constru
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/index.html"
-to = "/inspirations/solutions/"
+to = "/actualites/solutions/"
 
 [[redirects]]
 from = "/inspirations/2026-03-12-metamorfoz-present-a-la-rencontre-annuelle-dapmo/index.html"
 to = "/actualites/2026-03-12-metamorfoz-present-a-la-rencontre-annuelle-dapmo/"
 
 [[redirects]]
+from = "/inspirations/metiers/faiseur-de-liens/index.html"
+to = "/actualites/metiers/faiseur-de-liens/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/consultant-en-prospective-et-strategie/index.html"
 to = "/metiers/facilitation-collective/consultant-en-strategie-et-prospective/"
 
 [[redirects]]
+from = "/inspirations/solutions/sensibiliser-les-equipes/index.html"
+to = "/actualites/solutions/sensibiliser-les-equipes/"
+
+[[redirects]]
 from = "/inspirations/solutions-prestations/moment-fort/index.html"
-to = "/inspirations/solutions/moment-fort/"
+to = "/actualites/solutions/moment-fort/"
+
+[[redirects]]
+from = "/inspirations/metiers/index.html"
+to = "/actualites/metiers/"
+
+[[redirects]]
+from = "/inspirations/solutions/exprimer-et-formaliser-un-besoin/index.html"
+to = "/actualites/solutions/exprimer-et-formaliser-un-besoin/"
 
 [[redirects]]
 from = "/inspirations/archives-expositions/index.html"
@@ -208,19 +288,55 @@ to = "/expositions/archives-expositions/"
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/exprimer-et-formaliser-un-besoin/index.html"
-to = "/inspirations/solutions/exprimer-et-formaliser-un-besoin/"
+to = "/actualites/solutions/exprimer-et-formaliser-un-besoin/"
+
+[[redirects]]
+from = "/inspirations/expertises/dynamique-de-projets-dans-les-territoires/index.html"
+to = "/actualites/expertises/dynamique-de-projets-dans-les-territoires/"
+
+[[redirects]]
+from = "/inspirations/metiers/animateur-de-reseaux-et-de-communautes/index.html"
+to = "/actualites/metiers/animateur-de-reseaux-et-de-communautes/"
 
 [[redirects]]
 from = "/inspirations/2026-05-18-metamorfoz-present-au-festival-chtiiing-nantes-29-mai-2026/index.html"
 to = "/actualites/2026-05-18-metamorfoz-present-au-festival-chtiiing-nantes-29-mai-2026/"
 
 [[redirects]]
+from = "/inspirations/metiers/redacteur-journaliste/index.html"
+to = "/actualites/metiers/redacteur-journaliste/"
+
+[[redirects]]
+from = "/inspirations/metiers/consultant-en-strategie-et-prospective/index.html"
+to = "/actualites/metiers/consultant-en-strategie-et-prospective/"
+
+[[redirects]]
+from = "/inspirations/metiers/vulgarisateur/index.html"
+to = "/actualites/metiers/vulgarisateur/"
+
+[[redirects]]
 from = "/vos-besoins-nos-solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement-des-parties-prenantes/index.html"
 to = "/solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement-des-parties-prenantes/"
 
 [[redirects]]
+from = "/inspirations/secteurs/organisations-professionnelles/index.html"
+to = "/actualites/secteurs/organisations-professionnelles/"
+
+[[redirects]]
+from = "/inspirations/metiers/mentorat/index.html"
+to = "/actualites/metiers/mentorat/"
+
+[[redirects]]
+from = "/inspirations/a-propos/index.html"
+to = "/actualites/a-propos/"
+
+[[redirects]]
 from = "/inspirations/secteurs-filieres/rse/index.html"
-to = "/inspirations/secteurs/rse/"
+to = "/actualites/secteurs/rse/"
+
+[[redirects]]
+from = "/inspirations/metiers/structurateur-de-filiere/index.html"
+to = "/actualites/metiers/structurateur-de-filiere/"
 
 [[redirects]]
 from = "/inspirations/2025-04-30-lancement-de-metamorfoz/index.html"
@@ -229,6 +345,10 @@ to = "/actualites/2025-04-30-lancement-de-metamorfoz/"
 [[redirects]]
 from = "/nos-metiers/transformation-des-territoires/index.html"
 to = "/metiers/facilitation-des-projets/"
+
+[[redirects]]
+from = "/inspirations/solutions/moment-fort/index.html"
+to = "/actualites/solutions/moment-fort/"
 
 [[redirects]]
 from = "/nos-metiers/accompagnement-individuel-1/mentorat/index.html"
@@ -240,15 +360,27 @@ to = "/solutions/exprimer-et-formaliser-un-besoin-damenagement/"
 
 [[redirects]]
 from = "/inspirations/qui-sommes-nous/notre-raison-d-etre/index.html"
-to = "/inspirations/a-propos/notre-raison-d-etre/"
+to = "/actualites/a-propos/notre-raison-d-etre/"
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/partage/index.html"
-to = "/inspirations/solutions/approfondir-un-sujet/"
+to = "/actualites/solutions/approfondir-un-sujet/"
 
 [[redirects]]
 from = "/inspirations/solutions/partage/index.html"
-to = "/inspirations/solutions/approfondir-un-sujet/"
+to = "/actualites/solutions/approfondir-un-sujet/"
+
+[[redirects]]
+from = "/inspirations/a-propos/nos-engagements/index.html"
+to = "/actualites/a-propos/nos-engagements/"
+
+[[redirects]]
+from = "/inspirations/secteurs/rse/index.html"
+to = "/actualites/secteurs/rse/"
+
+[[redirects]]
+from = "/inspirations/secteurs/energies/index.html"
+to = "/actualites/secteurs/energies/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-territoires/regenerer-les-territoires-en-activant-leur-precieux-facteur-humain/index.html"
@@ -264,7 +396,7 @@ to = "/metiers/facilitation-collective/mediateur-de-connaissance/"
 
 [[redirects]]
 from = "/actualites/solutions-prestations/index.html"
-to = "/inspirations/solutions/"
+to = "/actualites/solutions/"
 
 [[redirects]]
 from = "/projets/2025-animation-de-la-5e-conference-de-leau-des-pays-de-la-loire/index.html"
@@ -284,11 +416,15 @@ to = "/metiers/facilitation-collective/redacteur-journaliste/"
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/energies/index.html"
-to = "/inspirations/secteurs/energies/"
+to = "/actualites/secteurs/energies/"
 
 [[redirects]]
 from = "/vos-besoins-nos-solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/index.html"
 to = "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/"
+
+[[redirects]]
+from = "/inspirations/metiers/facilitateur-d-innovation/index.html"
+to = "/actualites/metiers/facilitateur-d-innovation/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/conseil-editorial-1/index.html"
@@ -315,6 +451,10 @@ from = "/secteurs/construction/index.html"
 to = "/secteurs/construction-immobilier-amenagement-urbanisme/"
 
 [[redirects]]
+from = "/inspirations/secteurs/index.html"
+to = "/actualites/secteurs/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/consultant-en-strategie-et-prospective/index.html"
 to = "/metiers/facilitation-collective/consultant-en-strategie-et-prospective/"
 
@@ -324,15 +464,15 @@ to = "/metiers/facilitation-collective/charge-de-relations-publiques/"
 
 [[redirects]]
 from = "/inspirations/qui-sommes-nous/nos-engagements/index.html"
-to = "/inspirations/a-propos/nos-engagements/"
+to = "/actualites/a-propos/nos-engagements/"
 
 [[redirects]]
 from = "/inspirations/qui-sommes-nous/notre-intervenant-principal/index.html"
-to = "/inspirations/a-propos/notre-intervenant-principal/"
+to = "/actualites/a-propos/notre-intervenant-principal/"
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/associations/index.html"
-to = "/inspirations/secteurs/associations/"
+to = "/actualites/secteurs/associations/"
 
 [[redirects]]
 from = "/secteurs/energie/index.html"
@@ -343,12 +483,20 @@ from = "/mediation-de-connaissance/index.html"
 to = "/metiers/facilitation-collective/mediateur-de-connaissance/"
 
 [[redirects]]
+from = "/inspirations/a-propos/temoignages/index.html"
+to = "/actualites/a-propos/temoignages/"
+
+[[redirects]]
 from = "/inspirations/secteurs-filieres/construction-immobilier-amenagement-urbanisme/index.html"
-to = "/inspirations/secteurs/construction-immobilier-amenagement-urbanisme/"
+to = "/actualites/secteurs/construction-immobilier-amenagement-urbanisme/"
 
 [[redirects]]
 from = "/inspirations/dynamique-de-projets-dans-les-territoires/index.html"
-to = "/inspirations/expertises/dynamique-de-projets-dans-les-territoires/"
+to = "/actualites/expertises/dynamique-de-projets-dans-les-territoires/"
+
+[[redirects]]
+from = "/inspirations/metiers/conferencier/index.html"
+to = "/actualites/metiers/conferencier/"
 
 [[redirects]]
 from = "/expertises-1/index.html"
@@ -359,12 +507,20 @@ from = "/nos-metiers/transformation-des-organisations/facilitateur-dateliers-din
 to = "/metiers/facilitation-collective/facilitateur-dateliers-dintelligence-collective/"
 
 [[redirects]]
+from = "/inspirations/secteurs/modele-regeneratif/index.html"
+to = "/actualites/secteurs/modele-regeneratif/"
+
+[[redirects]]
 from = "/qui-sommes-nous-1/ils-en-parlent/index.html"
 to = "/qui-sommes-nous/ils-en-parlent/"
 
 [[redirects]]
 from = "/inspirations/qui-sommes-nous/notre-communaute/index.html"
-to = "/inspirations/a-propos/notre-communaute/"
+to = "/actualites/a-propos/notre-communaute/"
+
+[[redirects]]
+from = "/inspirations/solutions/approfondir-un-sujet/index.html"
+to = "/actualites/solutions/approfondir-un-sujet/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/animateur-de-reseaux-et-de-communautes/index.html"
@@ -376,11 +532,19 @@ to = "/qui-sommes-nous/activer-votre-precieux-facteur-humain-pour-faciliter-vos-
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/index.html"
-to = "/inspirations/secteurs/"
+to = "/actualites/secteurs/"
+
+[[redirects]]
+from = "/inspirations/secteurs/associations/index.html"
+to = "/actualites/secteurs/associations/"
 
 [[redirects]]
 from = "/inspirations/vulgarisateur/index.html"
-to = "/inspirations/metiers/vulgarisateur/"
+to = "/actualites/metiers/vulgarisateur/"
+
+[[redirects]]
+from = "/inspirations/secteurs/filieres-bio-sourcees/index.html"
+to = "/actualites/secteurs/filieres-bio-sourcees/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/accompagner-lemergence-de-linnovation/index.html"
@@ -391,18 +555,22 @@ from = "/references/qui-sommes-nous/index.html"
 to = "/references/a-propos/"
 
 [[redirects]]
-from = "/actualites/metiers/index.html"
-to = "/inspirations/metiers/"
-
-[[redirects]]
 from = "/nos-metiers/accompagnement-individuel-1/mentor/index.html"
 to = "/metiers/facilitation-individuelle-1/mentorat/"
 
 [[redirects]]
 from = "/actualites/mentorat/index.html"
-to = "/inspirations/metiers/mentorat/"
+to = "/actualites/metiers/mentorat/"
 
 [[redirects]]
 from = "/vos-besoins-nos-solutions/innover/index.html"
 to = "/solutions/innover/"
+
+[[redirects]]
+from = "/inspirations/expertises/index.html"
+to = "/actualites/expertises/"
+
+[[redirects]]
+from = "/inspirations/metiers/amo-programmiste/index.html"
+to = "/actualites/metiers/amo-programmiste/"
 
