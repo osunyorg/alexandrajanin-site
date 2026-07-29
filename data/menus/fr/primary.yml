@@ -314,15 +314,6 @@ items:
   - "/metiers/facilitation-individuelle-1/mentorat/"
   path: "/pages/metiers"
   file: content/fr/pages/metiers/_index.html
-- title: Expertises
-  slug: expertises
-  target: "/expertises/"
-  kind: page
-  new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/expertises"
-  file: content/fr/pages/expertises/_index.html
 - title: Solutions
   slug: solutions
   target: "/solutions/"
@@ -332,6 +323,15 @@ items:
   descendants_targets: []
   path: "/pages/solutions"
   file: content/fr/pages/solutions/_index.html
+- title: Expertises
+  slug: expertises
+  target: "/expertises/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/expertises"
+  file: content/fr/pages/expertises/_index.html
 - title: Références
   slug: references
   target: "/references/"
