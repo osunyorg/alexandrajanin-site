@@ -341,9 +341,9 @@ items:
   descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Inspirations
-  slug: inspirations
-  target: "/inspirations/"
+- title: Actus
+  slug: actus
+  target: "/actualites/"
   kind: page
   new_tab: false
   children: []
