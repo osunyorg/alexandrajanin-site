@@ -4,15 +4,24 @@
 .hero .content h1 > span
   font-size: 75%
   font-weight: $body-weight
-  line-height: 1.5
+  line-height: 1.2
 
-.page
-  .page-subtitle
-    font-weight: $body-weight
-    font-size: 85%
-    line-height: 1.4
+body.full-width .block-pages--list .pages:where(:not(.title-only)) article [class$="-subtitle"]
+  font-weight: $body-weight
+  font-size: var(--h4-size)
+  line-height: 1.4
 
-body:not(.page-shape) .hero,
+.page .page-subtitle
+  font-weight: $body-weight
+  font-size: var(--h4-size)
+  line-height: 1.4
+
+.post .post-subtitle
+  font-weight: $body-weight
+  font-size: var(--h4-size)
+  line-height: 1.4
+
+body:not(.page-shape):not(.posts__page) .hero,
 .block-content
   picture
     background: var(--color-accent)
