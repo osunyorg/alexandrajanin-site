@@ -1,14 +1,16 @@
 // Not too big on small screens
-html
-  @include media-breakpoint-between(lg, xl)
-    font-size: 75%
-    @include media-breakpoint-between(xl, xxl)
-      font-size: 85%
 
 // Réduire la taille des typo de la description des titres
 .hero .content h1 > span
-  font-size: 1.5rem
+  font-size: 75%
+  font-weight: $body-weight
   line-height: 1.5
+
+.page
+  .page-subtitle
+    font-weight: $body-weight
+    font-size: 85%
+    line-height: 1.4
 
 body:not(.page-shape) .hero,
 .block-content
