@@ -375,6 +375,10 @@ from = "/inspirations/a-propos/nos-engagements/index.html"
 to = "/actualites/a-propos/nos-engagements/"
 
 [[redirects]]
+from = "/mentorat-saligner-avec-fluidite/index.html"
+to = "/solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires/mentorat-saligner-avec-fluidite/"
+
+[[redirects]]
 from = "/inspirations/secteurs/rse/index.html"
 to = "/actualites/secteurs/rse/"
 
