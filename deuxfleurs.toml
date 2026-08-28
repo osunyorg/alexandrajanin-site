@@ -535,6 +535,10 @@ from = "/nos-metiers/transformation-des-organisations/facilitateur-dateliers-din
 to = "/metiers/facilitation-collective/facilitateur-dateliers-dintelligence-collective/"
 
 [[redirects]]
+from = "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-defi-de-la-construction/index.html"
+to = "/solutions/sensibiliser/atelier-defi-de-la-construction/"
+
+[[redirects]]
 from = "/inspirations/secteurs/modele-regeneratif/index.html"
 to = "/actualites/secteurs/modele-regeneratif/"
 
@@ -579,6 +583,10 @@ from = "/inspirations/vulgarisateur/index.html"
 to = "/actualites/metiers/vulgarisateur/"
 
 [[redirects]]
+from = "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-fresque-tp-infrastructures/index.html"
+to = "/solutions/sensibiliser/atelier-fresque-tp-infrastructures/"
+
+[[redirects]]
 from = "/inspirations/secteurs/filieres-bio-sourcees/index.html"
 to = "/actualites/secteurs/filieres-bio-sourcees/"
 
@@ -601,6 +609,10 @@ to = "/actualites/metiers/mentorat/"
 [[redirects]]
 from = "/vos-besoins-nos-solutions/innover/index.html"
 to = "/solutions/innover/"
+
+[[redirects]]
+from = "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/conferences-conferences-inspirantes/index.html"
+to = "/solutions/sensibiliser/conferences-inspirantes/"
 
 [[redirects]]
 from = "/inspirations/expertises/index.html"
