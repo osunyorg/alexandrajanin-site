@@ -519,6 +519,10 @@ from = "/inspirations/qui-sommes-nous/nos-engagements/index.html"
 to = "/actualites/a-propos/nos-engagements/"
 
 [[redirects]]
+from = "/atelier/index.html"
+to = "/ateliers/"
+
+[[redirects]]
 from = "/inspirations/qui-sommes-nous/notre-intervenant-principal/index.html"
 to = "/actualites/a-propos/notre-intervenant-principal/"
 
