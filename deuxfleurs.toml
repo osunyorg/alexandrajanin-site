@@ -19,6 +19,10 @@ from = "/inspirations/secteurs/construction-immobilier-amenagement-urbanisme/ind
 to = "/actualites/secteurs/construction-immobilier-amenagement-urbanisme/"
 
 [[redirects]]
+from = "/solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement-des-parties-prenantes/atelier-conduite-du-changement/index.html"
+to = "/solutions/engager/atelier-conduite-du-changement/"
+
+[[redirects]]
 from = "/inspirations/metiers/conseiller-editorial/index.html"
 to = "/actualites/metiers/conseiller-editorial/"
 
@@ -485,6 +489,10 @@ to = "/qui-sommes-nous-1/"
 [[redirects]]
 from = "/vos-besoins-nos-solutions/vous-cherchez-un-partage-dexperiences-et-un-espace-dechange-sur-vos-engagements/index.html"
 to = "/solutions/s-aligner/"
+
+[[redirects]]
+from = "/solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement-des-parties-prenantes/dynamiques-collectives-structuration-de-filiere/index.html"
+to = "/solutions/engager/dynamiques-collectives-structuration-de-filiere/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/facilitateur-d-innovation/index.html"
