@@ -59,16 +59,16 @@ from = "/nos-metiers/transformation-des-organisations/animateur-de-rencontres-pr
 to = "/metiers/facilitation-collective/animateur-de-rencontres-professionnelles/"
 
 [[redirects]]
+from = "/actualites/solutions/innover/index.html"
+to = "/actualites/solutions/developper/"
+
+[[redirects]]
 from = "/inspirations/qui-sommes-nous/index.html"
 to = "/actualites/a-propos/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/accompagnement-a-la-structuration-de-filiere/index.html"
 to = "/metiers/facilitation-collective/accompagnement-a-la-structuration-de-filiere/"
-
-[[redirects]]
-from = "/inspirations/qui-sommes-nous/temoignages/index.html"
-to = "/actualites/a-propos/temoignages/"
 
 [[redirects]]
 from = "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/index.html"
@@ -104,7 +104,7 @@ to = "/actualites/a-propos/nos-missions/"
 
 [[redirects]]
 from = "/inspirations/solutions/innover/index.html"
-to = "/actualites/solutions/innover/"
+to = "/actualites/solutions/developper/"
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/approfondir-un-sujet/index.html"
@@ -505,10 +505,6 @@ to = "/secteurs/energies/"
 [[redirects]]
 from = "/mediation-de-connaissance/index.html"
 to = "/metiers/facilitation-collective/mediateur-de-connaissance/"
-
-[[redirects]]
-from = "/inspirations/a-propos/temoignages/index.html"
-to = "/actualites/a-propos/temoignages/"
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/construction-immobilier-amenagement-urbanisme/index.html"
