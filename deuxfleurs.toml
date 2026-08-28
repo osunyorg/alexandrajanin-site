@@ -311,6 +311,10 @@ from = "/inspirations/metiers/consultant-en-strategie-et-prospective/index.html"
 to = "/actualites/metiers/consultant-en-strategie-et-prospective/"
 
 [[redirects]]
+from = "/solutions/approfondir-un-sujet/index.html"
+to = "/solutions/approfondir/"
+
+[[redirects]]
 from = "/inspirations/metiers/vulgarisateur/index.html"
 to = "/actualites/metiers/vulgarisateur/"
 
@@ -412,7 +416,7 @@ to = "/metiers/facilitation-collective/consultant-en-strategie-et-prospective/"
 
 [[redirects]]
 from = "/vos-besoins-nos-solutions/approfondir-un-sujet/index.html"
-to = "/solutions/approfondir-un-sujet/"
+to = "/solutions/approfondir/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/redacteur-journaliste/index.html"
