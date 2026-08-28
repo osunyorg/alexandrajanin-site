@@ -171,6 +171,10 @@ from = "/inspirations/secteurs-filieres/collectivites/index.html"
 to = "/actualites/secteurs/collectivites/"
 
 [[redirects]]
+from = "/rencontre/index.html"
+to = "/rencontres/"
+
+[[redirects]]
 from = "/inspirations/metiers/charge-de-relations-publiques/index.html"
 to = "/actualites/metiers/charge-de-relations-publiques/"
 
@@ -213,6 +217,10 @@ to = "/metiers/facilitation-collective/accompagnement-a-la-structuration-de-fili
 [[redirects]]
 from = "/inspirations/metiers/animateur-de-rencontres-professionnelles/index.html"
 to = "/actualites/metiers/animateur-de-rencontres-professionnelles/"
+
+[[redirects]]
+from = "/seminaire/index.html"
+to = "/seminaires/"
 
 [[redirects]]
 from = "/inspirations/metiers/podcasteur/index.html"
@@ -363,6 +371,10 @@ from = "/inspirations/a-propos/index.html"
 to = "/actualites/a-propos/"
 
 [[redirects]]
+from = "/accompagnement/index.html"
+to = "/accompagnements/"
+
+[[redirects]]
 from = "/inspirations/secteurs-filieres/rse/index.html"
 to = "/actualites/secteurs/rse/"
 
@@ -413,10 +425,6 @@ to = "/solutions/s-aligner/mentorat-saligner-avec-fluidite/"
 [[redirects]]
 from = "/inspirations/secteurs/rse/index.html"
 to = "/actualites/secteurs/rse/"
-
-[[redirects]]
-from = "/rencontres/index.html"
-to = "/rencontre/"
 
 [[redirects]]
 from = "/inspirations/secteurs/energies/index.html"
@@ -549,6 +557,10 @@ to = "/actualites/expertises/dynamique-de-projets-dans-les-territoires/"
 [[redirects]]
 from = "/solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires/index.html"
 to = "/solutions/s-aligner/"
+
+[[redirects]]
+from = "/conference/index.html"
+to = "/conferences/"
 
 [[redirects]]
 from = "/inspirations/metiers/conferencier/index.html"
