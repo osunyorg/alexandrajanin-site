@@ -172,7 +172,7 @@ to = "/actualites/2025-12-31-notre-cadeau-de-fin-dannee-du-temps-pour-transforme
 
 [[redirects]]
 from = "/qui-sommes-nous/notre-raison-detre-1/index.html"
-to = "/qui-sommes-nous/activer-votre-precieux-facteur-humain-pour-faciliter-vos-transformations/"
+to = "/qui-sommes-nous/notre-raison-detre/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/podcast/index.html"
@@ -273,6 +273,10 @@ to = "/actualites/metiers/faiseur-de-liens/"
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/consultant-en-prospective-et-strategie/index.html"
 to = "/metiers/facilitation-collective/consultant-en-strategie-et-prospective/"
+
+[[redirects]]
+from = "/qui-sommes-nous/activer-votre-precieux-facteur-humain-pour-faciliter-vos-transformations/index.html"
+to = "/qui-sommes-nous/notre-raison-detre/"
 
 [[redirects]]
 from = "/inspirations/solutions/sensibiliser-les-equipes/index.html"
@@ -556,7 +560,7 @@ to = "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
 
 [[redirects]]
 from = "/notre-raison-detre-1/index.html"
-to = "/qui-sommes-nous/activer-votre-precieux-facteur-humain-pour-faciliter-vos-transformations/"
+to = "/qui-sommes-nous/notre-raison-detre/"
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/index.html"
