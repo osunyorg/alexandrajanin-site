@@ -103,6 +103,10 @@ from = "/inspirations/a-propos/nos-missions/index.html"
 to = "/actualites/a-propos/nos-missions/"
 
 [[redirects]]
+from = "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/seminaire-intelligence-collective/index.html"
+to = "/solutions/animer/seminaire-intelligence-collective/"
+
+[[redirects]]
 from = "/inspirations/solutions/innover/index.html"
 to = "/actualites/solutions/developper/"
 
@@ -403,6 +407,10 @@ from = "/inspirations/secteurs/rse/index.html"
 to = "/actualites/secteurs/rse/"
 
 [[redirects]]
+from = "/rencontres/index.html"
+to = "/rencontre/"
+
+[[redirects]]
 from = "/inspirations/secteurs/energies/index.html"
 to = "/actualites/secteurs/energies/"
 
@@ -565,6 +573,10 @@ to = "/solutions/engager/"
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/animateur-de-reseaux-et-de-communautes/index.html"
 to = "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
+
+[[redirects]]
+from = "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/atelier-intelligence-collective/index.html"
+to = "/solutions/animer/atelier-intelligence-collective/"
 
 [[redirects]]
 from = "/notre-raison-detre-1/index.html"
