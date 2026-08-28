@@ -539,6 +539,10 @@ from = "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelie
 to = "/solutions/sensibiliser/atelier-defi-de-la-construction/"
 
 [[redirects]]
+from = "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/atelier-adaptation/index.html"
+to = "/solutions/sensibiliser/atelier-adaptation/"
+
+[[redirects]]
 from = "/inspirations/secteurs/modele-regeneratif/index.html"
 to = "/actualites/secteurs/modele-regeneratif/"
 
