@@ -1,5 +1,3 @@
-// Not too big on small screens
-
 // Réduire la taille des typo de la description des titres
 .hero .content h1 > span
   font-size: 75%
@@ -53,22 +51,6 @@ body:not(.page-shape):not(.posts__page) .hero,
       width: 100%
       height: 25%
 
-.block-content .image-landscape
-  picture
-    &::before
-      display: none
-    &::after
-      content: ''
-      position: absolute
-      bottom: -1.5rem
-      left: -12rem
-      background: url('/assets/images/shape-3.svg')
-      background-repeat: no-repeat
-      background-size: contain
-      background-position: right
-      height: 100%
-      width: 20%
-
 body main
       overflow: hidden
 
@@ -85,3 +67,6 @@ body.page-shape .hero picture
   pointer-events: none
   will-change: transform
   opacity: .25
+
+.organization picture
+  mix-blend-mode: multiply
