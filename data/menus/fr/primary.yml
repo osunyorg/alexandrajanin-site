@@ -125,18 +125,8 @@ items:
       target: "/metiers/facilitation-collective/"
       kind: page
       new_tab: false
-      children:
-      - title: Conseiller éditorial
-        slug: conseiller-editorial
-        target: "/metiers/facilitation-collective/conseiller-editorial/"
-        kind: page
-        new_tab: false
-        children: []
-        descendants_targets: []
-        path: "/pages/metiers/facilitation-collective/conseiller-editorial"
-        file: content/fr/pages/metiers/facilitation-collective/conseiller-editorial/_index.html
-      descendants_targets:
-      - "/metiers/facilitation-collective/conseiller-editorial/"
+      children: []
+      descendants_targets: []
       path: "/pages/metiers/facilitation-collective"
       file: content/fr/pages/metiers/facilitation-collective/_index.html
     - title: Facilitation des projets
@@ -150,7 +140,6 @@ items:
       file: content/fr/pages/metiers/facilitation-des-projets/_index.html
     descendants_targets:
     - "/metiers/facilitation-collective/"
-    - "/metiers/facilitation-collective/conseiller-editorial/"
     - "/metiers/facilitation-des-projets/"
     - "/metiers/facilitation-individuelle-1/"
     path: "/pages/metiers"
@@ -169,15 +158,47 @@ items:
     target: "/expertises/"
     kind: page
     new_tab: false
-    children: []
-    descendants_targets: []
+    children:
+    - title: Bien-être personnel
+      slug: bien-etre-personnel
+      target: "/expertises/bien-etre-personnel/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/expertises/bien-etre-personnel"
+      file: content/fr/pages/expertises/bien-etre-personnel/_index.html
+    - title: Dynamiques collectives
+      slug: dynamiques-collectives
+      target: "/expertises/dynamiques-collectives/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/expertises/dynamiques-collectives"
+      file: content/fr/pages/expertises/dynamiques-collectives/_index.html
+    - title: Dynamique de projets dans les territoires
+      slug: dynamique-de-projets-dans-les-territoires
+      target: "/expertises/deploiement-de-projets-a-impact-dans-les-territoires/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/expertises/deploiement-de-projets-a-impact-dans-les-territoires"
+      file: content/fr/pages/expertises/deploiement-de-projets-a-impact-dans-les-territoires/_index.html
+    descendants_targets:
+    - "/expertises/bien-etre-personnel/"
+    - "/expertises/deploiement-de-projets-a-impact-dans-les-territoires/"
+    - "/expertises/dynamiques-collectives/"
     path: "/pages/expertises"
     file: content/fr/pages/expertises/_index.html
   descendants_targets:
   - "/expertises/"
+  - "/expertises/bien-etre-personnel/"
+  - "/expertises/deploiement-de-projets-a-impact-dans-les-territoires/"
+  - "/expertises/dynamiques-collectives/"
   - "/metiers/"
   - "/metiers/facilitation-collective/"
-  - "/metiers/facilitation-collective/conseiller-editorial/"
   - "/metiers/facilitation-des-projets/"
   - "/metiers/facilitation-individuelle-1/"
   - "/secteurs/"
