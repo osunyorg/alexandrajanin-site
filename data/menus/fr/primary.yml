@@ -149,8 +149,78 @@ items:
     target: "/solutions/"
     kind: page
     new_tab: false
-    children: []
-    descendants_targets: []
+    children:
+    - title: Sensibiliser
+      slug: sensibiliser
+      target: "/solutions/sensibiliser/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions/sensibiliser"
+      file: content/fr/pages/solutions/sensibiliser/_index.html
+    - title: Animer
+      slug: animer
+      target: "/solutions/animer/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions/animer"
+      file: content/fr/pages/solutions/animer/_index.html
+    - title: S'aligner
+      slug: s-aligner
+      target: "/solutions/s-aligner/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions/s-aligner"
+      file: content/fr/pages/solutions/s-aligner/_index.html
+    - title: Approfondir
+      slug: approfondir
+      target: "/solutions/approfondir/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions/approfondir"
+      file: content/fr/pages/solutions/approfondir/_index.html
+    - title: S'exprimer
+      slug: s-exprimer
+      target: "/solutions/s-exprimer/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions/s-exprimer"
+      file: content/fr/pages/solutions/s-exprimer/_index.html
+    - title: Se développer
+      slug: se-developper
+      target: "/solutions/innover/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions/innover"
+      file: content/fr/pages/solutions/innover/_index.html
+    - title: Engager
+      slug: engager
+      target: "/solutions/engager/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/solutions/engager"
+      file: content/fr/pages/solutions/engager/_index.html
+    descendants_targets:
+    - "/solutions/animer/"
+    - "/solutions/approfondir/"
+    - "/solutions/engager/"
+    - "/solutions/innover/"
+    - "/solutions/s-aligner/"
+    - "/solutions/s-exprimer/"
+    - "/solutions/sensibiliser/"
     path: "/pages/solutions"
     file: content/fr/pages/solutions/_index.html
   - title: Expertises
@@ -211,6 +281,13 @@ items:
   - "/secteurs/organisations-professionnelles/"
   - "/secteurs/rse/"
   - "/solutions/"
+  - "/solutions/animer/"
+  - "/solutions/approfondir/"
+  - "/solutions/engager/"
+  - "/solutions/innover/"
+  - "/solutions/s-aligner/"
+  - "/solutions/s-exprimer/"
+  - "/solutions/sensibiliser/"
 - title: Références
   slug: references
   target: "/references/"
