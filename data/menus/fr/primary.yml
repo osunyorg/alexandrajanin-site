@@ -275,8 +275,8 @@ items:
   descendants_targets: []
   path: "/projects"
   file: content/fr/projects/_index.html
-- title: Actus
-  slug: actus
+- title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
