@@ -267,6 +267,10 @@ from = "/nos-metiers/transformation-des-organisations/animer-des-dynamiques-coll
 to = "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
 
 [[redirects]]
+from = "/solutions/s-aligner/mentorat-saligner-avec-fluidite/index.html"
+to = "/solutions/s-aligner/mentorat-1/"
+
+[[redirects]]
 from = "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/index.html"
 to = "/solutions/animer/"
 
@@ -420,7 +424,7 @@ to = "/actualites/a-propos/nos-engagements/"
 
 [[redirects]]
 from = "/mentorat-saligner-avec-fluidite/index.html"
-to = "/solutions/s-aligner/mentorat-saligner-avec-fluidite/"
+to = "/solutions/s-aligner/mentorat-1/"
 
 [[redirects]]
 from = "/inspirations/secteurs/rse/index.html"
@@ -484,7 +488,7 @@ to = "/metiers/facilitation-collective/conseiller-editorial/"
 
 [[redirects]]
 from = "/solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires/mentorat-saligner-avec-fluidite/index.html"
-to = "/solutions/s-aligner/mentorat-saligner-avec-fluidite/"
+to = "/solutions/s-aligner/mentorat-1/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/mediation-de-connaissance/index.html"
