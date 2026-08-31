@@ -40,15 +40,6 @@ items:
       descendants_targets: []
       path: "/pages/secteurs/collectivites"
       file: content/fr/pages/secteurs/collectivites/_index.html
-    - title: Modèles régénératifs
-      slug: modeles-regeneratifs
-      target: "/secteurs/modeles-regeneratifs/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/secteurs/modeles-regeneratifs"
-      file: content/fr/pages/secteurs/modeles-regeneratifs/_index.html
     - title: Filières bio-sourcées
       slug: filieres-bio-sourcees
       target: "/secteurs/filieres-bio-sourcees/"
@@ -100,7 +91,6 @@ items:
     - "/secteurs/construction-immobilier-amenagement-urbanisme/"
     - "/secteurs/energies/"
     - "/secteurs/filieres-bio-sourcees/"
-    - "/secteurs/modeles-regeneratifs/"
     - "/secteurs/organisations-professionnelles/"
     - "/secteurs/rse/"
     path: "/pages/secteurs"
@@ -277,7 +267,6 @@ items:
   - "/secteurs/construction-immobilier-amenagement-urbanisme/"
   - "/secteurs/energies/"
   - "/secteurs/filieres-bio-sourcees/"
-  - "/secteurs/modeles-regeneratifs/"
   - "/secteurs/organisations-professionnelles/"
   - "/secteurs/rse/"
   - "/solutions/"
