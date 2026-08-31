@@ -22,7 +22,7 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Construction | Immobilier | Aménagement | Urbanisme
+    - title: Construction, immobilier, aménagement, urbanisme
       slug: construction-immobilier-amenagement-urbanisme
       target: "/secteurs/construction-immobilier-amenagement-urbanisme/"
       kind: page
