@@ -58,15 +58,6 @@ items:
       descendants_targets: []
       path: "/pages/secteurs/energies"
       file: content/fr/pages/secteurs/energies/_index.html
-    - title: RSE
-      slug: rse
-      target: "/secteurs/rse/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/secteurs/rse"
-      file: content/fr/pages/secteurs/rse/_index.html
     - title: Organisations professionnelles
       slug: organisations-professionnelles
       target: "/secteurs/organisations-professionnelles/"
@@ -92,7 +83,6 @@ items:
     - "/secteurs/energies/"
     - "/secteurs/filieres-bio-sourcees/"
     - "/secteurs/organisations-professionnelles/"
-    - "/secteurs/rse/"
     path: "/pages/secteurs"
     file: content/fr/pages/secteurs/_index.html
   - title: Métiers
@@ -268,7 +258,6 @@ items:
   - "/secteurs/energies/"
   - "/secteurs/filieres-bio-sourcees/"
   - "/secteurs/organisations-professionnelles/"
-  - "/secteurs/rse/"
   - "/solutions/"
   - "/solutions/animer/"
   - "/solutions/approfondir/"
