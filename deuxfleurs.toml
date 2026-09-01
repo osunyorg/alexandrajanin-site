@@ -139,6 +139,10 @@ from = "/inspirations/qui-sommes-nous/nos-missions/index.html"
 to = "/actualites/a-propos/nos-missions/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/memoire-parcours-mouvant-recreepdf/"
+
+[[redirects]]
 from = "/personnes/equipe-editoriale/index.html"
 to = "/qui-sommes-nous-1/equipe-editoriale/"
 
