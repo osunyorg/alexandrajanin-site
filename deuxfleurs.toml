@@ -207,6 +207,10 @@ from = "/qui-sommes-nous/notre-raison-detre-1/index.html"
 to = "/a-propos/raison-d-etre/"
 
 [[redirects]]
+from = "/accompagnements/index.html"
+to = "/accompagnement/"
+
+[[redirects]]
 from = "/nos-metiers/transformation-des-organisations/podcast/index.html"
 to = "/metiers/facilitation-collective/podcasteur/"
 
@@ -393,10 +397,6 @@ to = "/actualites/metiers/mentorat/"
 [[redirects]]
 from = "/inspirations/a-propos/index.html"
 to = "/actualites/a-propos/"
-
-[[redirects]]
-from = "/accompagnement/index.html"
-to = "/accompagnements/"
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/rse/index.html"
