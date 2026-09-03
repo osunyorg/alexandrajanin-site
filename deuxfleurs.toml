@@ -639,6 +639,10 @@ from = "/inspirations/secteurs/modele-regeneratif/index.html"
 to = "/actualites/secteurs/modele-regeneratif/"
 
 [[redirects]]
+from = "/metiers/facilitation-individuelle-1/conseiller-editorial/index.html"
+to = "/metiers/facilitation-collective/conseiller-editorial/"
+
+[[redirects]]
 from = "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/rencontres-evenements-professionnels/index.html"
 to = "/solutions/animer/rencontres-evenements-professionnels/"
 
