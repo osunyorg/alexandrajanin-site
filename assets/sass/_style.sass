@@ -20,39 +20,8 @@ body.full-width .block-pages--list .pages:where(:not(.title-only)) article [clas
   font-size: var(--h4-size)
   line-height: 1.4
 
-body:not(.page-shape):not(.posts__page) .hero,
-.block-content article:not(.organization)
-  picture
-    background: var(--color-accent)
-    position: relative
-    overflow: hidden
-    &::before
-      content: ''
-      position: absolute
-      right: 0
-      display: block
-      background: url('/assets/images/shape-2.svg')
-      background-repeat: no-repeat
-      background-size: contain
-      background-position: right
-      width: 100%
-      height: 100%
-      margin-right: -2px
-    &::after
-      content: ''
-      position: absolute
-      bottom: .5rem
-      right: .25rem
-      display: block
-      background: url('/assets/images/logo-symbol-white.svg')
-      background-repeat: no-repeat
-      background-size: contain
-      background-position: bottom 0 right .5rem
-      width: 100%
-      height: 25%
-
 body main
-      overflow: hidden
+  overflow: hidden
 
 body.page-shape .hero
   position: relative
