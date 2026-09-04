@@ -39,3 +39,26 @@ body.page-shape .hero picture
 
 .organization picture
   mix-blend-mode: multiply
+
+// FOOTER
+footer#document-footer .container > * + *
+  margin-top: 2rem
+
+footer#document-footer
+  padding-top: 2rem
+
+@media (min-width: 992px)
+  footer#document-footer .container
+    padding-bottom: 0
+
+  footer#document-footer .container:has(.footer-site)
+    gap: 0
+
+  footer#document-footer .container + .container
+    padding-top: 0
+
+  footer#document-footer .container
+    justify-content: space-between
+
+  footer#document-footer .container > * + *
+    margin-top: 0
