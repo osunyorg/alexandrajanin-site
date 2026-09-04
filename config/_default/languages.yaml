@@ -15,6 +15,12 @@ fr:
             pyl@metamorfoz.fr
           value: >-
             mailto:pyl@metamorfoz.fr
+      social_networks:
+        linkedin:
+          label: >-
+            metamorfoz-sasu
+          value: >-
+            https://www.linkedin.com/company/metamorfoz-sasu/
 
   taxonomies:
     administrator: administrators
