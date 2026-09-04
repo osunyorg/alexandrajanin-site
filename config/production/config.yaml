@@ -7,6 +7,10 @@ osuny:
   website:
     id: d0e0297b-afcd-4035-9209-40bbcb301b5a
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "metamorfoz.fr"
 
 ## LANGUAGE
 defaultContentLanguage: fr
