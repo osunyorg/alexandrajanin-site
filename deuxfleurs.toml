@@ -295,6 +295,10 @@ from = "/nos-metiers/transformation-des-organisations/animer-des-dynamiques-coll
 to = "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
 
 [[redirects]]
+from = "/solutions/animer/rencontres-evenements-professionnels/index.html"
+to = "/solutions/animer/evenements-professionnels/"
+
+[[redirects]]
 from = "/solutions/s-aligner/mentorat-saligner-avec-fluidite/index.html"
 to = "/solutions/s-aligner/mentorat-1/"
 
@@ -652,7 +656,7 @@ to = "/metiers/facilitation-collective/conseiller-editorial/"
 
 [[redirects]]
 from = "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/rencontres-evenements-professionnels/index.html"
-to = "/solutions/animer/rencontres-evenements-professionnels/"
+to = "/solutions/animer/evenements-professionnels/"
 
 [[redirects]]
 from = "/metiers/facilitation-des-projets/index.html"
