@@ -556,7 +556,7 @@ to = "/solutions/s-aligner/"
 
 [[redirects]]
 from = "/solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement-des-parties-prenantes/dynamiques-collectives-structuration-de-filiere/index.html"
-to = "/solutions/engager/dynamiques-collectives-structuration-de-filiere/"
+to = "/solutions/engager/structuration-de-filiere/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/facilitateur-d-innovation/index.html"
@@ -745,6 +745,10 @@ to = "/actualites/metiers/mentorat/"
 [[redirects]]
 from = "/vos-besoins-nos-solutions/innover/index.html"
 to = "/solutions/innover/"
+
+[[redirects]]
+from = "/solutions/engager/dynamiques-collectives-structuration-de-filiere/index.html"
+to = "/solutions/engager/structuration-de-filiere/"
 
 [[redirects]]
 from = "/solutions/sensibiliser-les-equipes-aux-enjeux-de-la-regeneration/conferences-conferences-inspirantes/index.html"
