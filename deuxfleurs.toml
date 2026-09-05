@@ -179,6 +179,10 @@ from = "/vos-besoins-nos-solutions/index.html"
 to = "/solutions/"
 
 [[redirects]]
+from = "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/index.html"
+to = "/metiers/facilitation-de-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
+
+[[redirects]]
 from = "/inspirations/metiers/facilitateur-d-ateliers-d-intelligence-collective/index.html"
 to = "/actualites/metiers/facilitateur-d-ateliers-d-intelligence-collective/"
 
@@ -304,7 +308,7 @@ to = "/actualites/metiers/mediateur-de-connaissances/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-territoires/amo-programmiste/index.html"
-to = "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
+to = "/metiers/facilitation-de-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
 
 [[redirects]]
 from = "/inspirations/solutions-prestations/index.html"
@@ -412,7 +416,7 @@ to = "/actualites/2025-04-30-lancement-de-metamorfoz/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-territoires/index.html"
-to = "/metiers/facilitation-des-projets/"
+to = "/metiers/facilitation-de-projets/"
 
 [[redirects]]
 from = "/qui-sommes-nous/index.html"
@@ -464,7 +468,7 @@ to = "/actualites/secteurs/energies/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-territoires/regenerer-les-territoires-en-activant-leur-precieux-facteur-humain/index.html"
-to = "/metiers/facilitation-des-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
+to = "/metiers/facilitation-de-projets/facilitateur-dans-les-projets-de-construction-immobilier-amenagement/"
 
 [[redirects]]
 from = "/qui-sommes-nous-1/quen-pensez-vous-1/index.html"
@@ -649,6 +653,10 @@ to = "/metiers/facilitation-collective/conseiller-editorial/"
 [[redirects]]
 from = "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/rencontres-evenements-professionnels/index.html"
 to = "/solutions/animer/rencontres-evenements-professionnels/"
+
+[[redirects]]
+from = "/metiers/facilitation-des-projets/index.html"
+to = "/metiers/facilitation-de-projets/"
 
 [[redirects]]
 from = "/a-propos/notre-raison-detre/index.html"
