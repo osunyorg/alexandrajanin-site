@@ -571,6 +571,10 @@ from = "/nos-metiers/transformation-des-organisations/relations-publiques/index.
 to = "/metiers/facilitation-collective/charge-de-relations-publiques/"
 
 [[redirects]]
+from = "/references/2026-conseiller-editorial-de-laurent-rossez/index.html"
+to = "/references/2026-conseil-editorial-pour-ladaptation-integrale/"
+
+[[redirects]]
 from = "/inspirations/qui-sommes-nous/nos-engagements/index.html"
 to = "/actualites/a-propos/nos-engagements/"
 
@@ -669,6 +673,10 @@ to = "/solutions/engager/"
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/animateur-de-reseaux-et-de-communautes/index.html"
 to = "/metiers/facilitation-collective/animateur-de-reseaux-et-de-communautes/"
+
+[[redirects]]
+from = "/references/2026-parcours-mouvant/index.html"
+to = "/references/2026-atelier-regenerer-en-se-regenerant/"
 
 [[redirects]]
 from = "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/atelier-intelligence-collective/index.html"
