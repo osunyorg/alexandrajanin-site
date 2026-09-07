@@ -39,6 +39,10 @@ from = "/nos-metiers/transformation-des-organisations/conseiller-editorial/index
 to = "/metiers/facilitation-individuelle-1/conseiller-editorial/"
 
 [[redirects]]
+from = "/metiers/facilitation-collective/redacteur-journaliste/index.html"
+to = "/metiers/facilitation-de-projets/redacteur-journaliste/"
+
+[[redirects]]
 from = "/inspirations/2026-01-30-metamorfoz-shabille-tout-en-bleu-avec-sa-nouvelle-charte-graphique/index.html"
 to = "/actualites/2026-01-30-metamorfoz-shabille-tout-en-bleu-avec-sa-nouvelle-charte-graphique/"
 
@@ -156,7 +160,7 @@ to = "/references/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/podcasteur/index.html"
-to = "/metiers/facilitation-collective/podcasteur/"
+to = "/metiers/facilitation-de-projets/podcasteur/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/vulgarisateur/index.html"
@@ -216,7 +220,7 @@ to = "/accompagnement/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/podcast/index.html"
-to = "/metiers/facilitation-collective/podcasteur/"
+to = "/metiers/facilitation-de-projets/podcasteur/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/index.html"
@@ -285,6 +289,10 @@ to = "/actualites/solutions/"
 [[redirects]]
 from = "/qui-sommes-nous-1/pierre-yves-legrand/inspirations/index.html"
 to = "/qui-sommes-nous-1/pierre-yves-legrand/actualites/"
+
+[[redirects]]
+from = "/metiers/facilitation-collective/podcasteur/index.html"
+to = "/metiers/facilitation-de-projets/podcasteur/"
 
 [[redirects]]
 from = "/inspirations/secteurs/collectivites/index.html"
@@ -532,7 +540,7 @@ to = "/a-propos/intervenant-principal/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/redacteur-journaliste/index.html"
-to = "/metiers/facilitation-collective/redacteur-journaliste/"
+to = "/metiers/facilitation-de-projets/redacteur-journaliste/"
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/energies/index.html"
