@@ -36,7 +36,7 @@ to = "/actualites/solutions/mettre-en-dynamique/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/conseiller-editorial/index.html"
-to = "/metiers/facilitation-collective/conseiller-editorial/"
+to = "/metiers/facilitation-individuelle-1/conseiller-editorial/"
 
 [[redirects]]
 from = "/inspirations/2026-01-30-metamorfoz-shabille-tout-en-bleu-avec-sa-nouvelle-charte-graphique/index.html"
@@ -52,7 +52,7 @@ to = "/actualites/solutions/prendre-du-recul/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/charge-de-relations-publiques/index.html"
-to = "/metiers/facilitation-collective/charge-de-relations-publiques/"
+to = "/metiers/facilitation-de-projets/charge-de-relations-publiques/"
 
 [[redirects]]
 from = "/inspirations/qui-sommes-nous/notre-style-unique/index.html"
@@ -251,6 +251,10 @@ from = "/seminaire/index.html"
 to = "/seminaires/"
 
 [[redirects]]
+from = "/metiers/facilitation-individuelle-1/charge-de-relations-publiques/index.html"
+to = "/metiers/facilitation-de-projets/charge-de-relations-publiques/"
+
+[[redirects]]
 from = "/inspirations/metiers/podcasteur/index.html"
 to = "/actualites/metiers/podcasteur/"
 
@@ -332,11 +336,15 @@ to = "/actualites/metiers/faiseur-de-liens/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/consultant-en-prospective-et-strategie/index.html"
-to = "/metiers/facilitation-collective/consultant-en-strategie-et-prospective/"
+to = "/metiers/facilitation-individuelle-1/consultant-en-strategie-et-prospective/"
 
 [[redirects]]
 from = "/qui-sommes-nous/activer-votre-precieux-facteur-humain-pour-faciliter-vos-transformations/index.html"
 to = "/a-propos/raison-d-etre/"
+
+[[redirects]]
+from = "/metiers/facilitation-collective/charge-de-relations-publiques/index.html"
+to = "/metiers/facilitation-de-projets/charge-de-relations-publiques/"
 
 [[redirects]]
 from = "/inspirations/solutions/sensibiliser-les-equipes/index.html"
@@ -447,6 +455,10 @@ from = "/inspirations/qui-sommes-nous/notre-raison-d-etre/index.html"
 to = "/actualites/a-propos/notre-raison-d-etre/"
 
 [[redirects]]
+from = "/metiers/facilitation-collective/conseiller-editorial/index.html"
+to = "/metiers/facilitation-individuelle-1/conseiller-editorial/"
+
+[[redirects]]
 from = "/inspirations/solutions-prestations/partage/index.html"
 to = "/actualites/solutions/approfondir-un-sujet/"
 
@@ -484,7 +496,7 @@ to = "/qui-sommes-nous/ils-en-parlent/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/mediateur-de-connaissance/index.html"
-to = "/metiers/facilitation-collective/mediateur-de-connaissance/"
+to = "/metiers/facilitation-de-projets/mediateur-de-connaissance/"
 
 [[redirects]]
 from = "/actualites/solutions-prestations/index.html"
@@ -508,7 +520,7 @@ to = "/references/2025-animation-de-la-5e-conference-de-leau-des-pays-de-la-loir
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/conseil-en-prospective-et-strategie/index.html"
-to = "/metiers/facilitation-collective/consultant-en-strategie-et-prospective/"
+to = "/metiers/facilitation-individuelle-1/consultant-en-strategie-et-prospective/"
 
 [[redirects]]
 from = "/vos-besoins-nos-solutions/approfondir-un-sujet/index.html"
@@ -544,7 +556,7 @@ to = "/a-propos/engagements/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/conseil-editorial-1/index.html"
-to = "/metiers/facilitation-collective/conseiller-editorial/"
+to = "/metiers/facilitation-individuelle-1/conseiller-editorial/"
 
 [[redirects]]
 from = "/solutions/sortir-de-son-isolement-prendre-du-recul-et-aligner-ses-vies-pro-perso-et-communautaires/mentorat-saligner-avec-fluidite/index.html"
@@ -552,7 +564,7 @@ to = "/solutions/s-aligner/mentorat-1/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/mediation-de-connaissance/index.html"
-to = "/metiers/facilitation-collective/mediateur-de-connaissance/"
+to = "/metiers/facilitation-de-projets/mediateur-de-connaissance/"
 
 [[redirects]]
 from = "/personnes/index.html"
@@ -565,6 +577,10 @@ to = "/solutions/s-aligner/"
 [[redirects]]
 from = "/solutions/mettre-en-place-une-dynamique-collective-susciter-lengagement-des-parties-prenantes/dynamiques-collectives-structuration-de-filiere/index.html"
 to = "/solutions/engager/structuration-de-filiere/"
+
+[[redirects]]
+from = "/metiers/facilitation-collective/consultant-en-strategie-et-prospective/index.html"
+to = "/metiers/facilitation-individuelle-1/consultant-en-strategie-et-prospective/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/facilitateur-d-innovation/index.html"
@@ -580,11 +596,11 @@ to = "/actualites/secteurs/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/consultant-en-strategie-et-prospective/index.html"
-to = "/metiers/facilitation-collective/consultant-en-strategie-et-prospective/"
+to = "/metiers/facilitation-individuelle-1/consultant-en-strategie-et-prospective/"
 
 [[redirects]]
 from = "/nos-metiers/transformation-des-organisations/relations-publiques/index.html"
-to = "/metiers/facilitation-collective/charge-de-relations-publiques/"
+to = "/metiers/facilitation-de-projets/charge-de-relations-publiques/"
 
 [[redirects]]
 from = "/references/2026-conseiller-editorial-de-laurent-rossez/index.html"
@@ -616,7 +632,7 @@ to = "/a-propos/missions/"
 
 [[redirects]]
 from = "/mediation-de-connaissance/index.html"
-to = "/metiers/facilitation-collective/mediateur-de-connaissance/"
+to = "/metiers/facilitation-de-projets/mediateur-de-connaissance/"
 
 [[redirects]]
 from = "/inspirations/secteurs-filieres/construction-immobilier-amenagement-urbanisme/index.html"
@@ -657,10 +673,6 @@ to = "/solutions/sensibiliser/atelier-adaptation/"
 [[redirects]]
 from = "/inspirations/secteurs/modele-regeneratif/index.html"
 to = "/actualites/secteurs/modele-regeneratif/"
-
-[[redirects]]
-from = "/metiers/facilitation-individuelle-1/conseiller-editorial/index.html"
-to = "/metiers/facilitation-collective/conseiller-editorial/"
 
 [[redirects]]
 from = "/solutions/organiser-un-moment-fort-et-interactif-avec-vos-equipes-vos-clients-partenaires-parties-prenantes/rencontres-evenements-professionnels/index.html"
@@ -765,6 +777,10 @@ to = "/solutions/sensibiliser/conferences-inspirantes/"
 [[redirects]]
 from = "/a-propos/ce-qui-fait-ce-que-ce-que-vous-ferez-avec-metamorfoz-nexiste-nul-part-ailleurs/index.html"
 to = "/a-propos/style-unique/"
+
+[[redirects]]
+from = "/metiers/facilitation-collective/mediateur-de-connaissance/index.html"
+to = "/metiers/facilitation-de-projets/mediateur-de-connaissance/"
 
 [[redirects]]
 from = "/inspirations/expertises/index.html"
